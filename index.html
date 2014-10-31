@@ -13,12 +13,13 @@ layout: default
           <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" target="_blank">{{ post.title }}</a>
           </h2>
-          <span class="post-meta">{{ post.date | date: "%Y-%m-%d %H:%M:%S" }}</span>
         </div>
 
         <div>
           {{ post.excerpt }}
         </div>
+
+        <span class="post-meta">发布时间: {{ post.date | date: "%Y-%m-%d %H:%M:%S" }}</span>
       </li>
     {% endfor %}
   </ul>
