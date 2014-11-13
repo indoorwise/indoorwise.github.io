@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "iBeacon蓝牙技术点亮物联网化智慧城市"
-date: 2014-11-13 06:18:38
+date: 2014-11-13 14:18:38
 categories: indoorwise ibeacon
 ---
 <p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon智慧城市天津.jpg"><img alt="ibeacon智慧城市天津" class="alignnone size-medium wp-image-914" height="167" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon智慧城市天津-300x167.jpg" width="300"/></a><br/>
