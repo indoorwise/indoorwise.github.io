@@ -1,0 +1,17 @@
+---
+layout: post
+title: "看日本如何利用iBeacon交通利民"
+date: 2014-11-13 05:07:40
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon日本巴士00.jpg"><img alt="ibeacon日本巴士00" class="alignnone size-full wp-image-985" height="293" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon日本巴士00.jpg" width="220"/></a><br/>
+日本京都巴士公司运用iBeacon将向乘客提供进站服务，具体是这样实现的。
+
+所有巴士预装好beacon传感器，在巴士车站的站牌进行改造嵌入感应装置，当巴士还有几十到一百米靠近进站时，站牌显示屏自动提示进站车次，方向及注意事项，比如是否无人售票，票价，前门还是后门上车等。乘客没有必要安装APP。京都交通局将对300个巴士站牌硬件更新此服务，今年将完成60个。<br/>
+
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon日本巴士0.jpg"><img alt="ibeacon日本巴士0" class="alignnone size-full wp-image-986" height="165" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon日本巴士0.jpg" width="220"/></a><br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon日本巴士2.jpg"><img alt="ibeacon日本巴士2" class="alignnone size-full wp-image-988" height="165" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon日本巴士2.jpg" width="220"/></a><br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon日本巴士1.jpg"><img alt="ibeacon日本巴士1" class="alignnone size-medium wp-image-987" height="107" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon日本巴士1-300x107.jpg" width="300"/></a></p>
+
+
+<p>转载自：iBeacon粉丝网 » 看日本如何利用iBeacon交通利民</p>

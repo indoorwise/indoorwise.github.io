@@ -1,0 +1,13 @@
+---
+layout: post
+title: "APPLE地图整合iBeacon功能"
+date: 2014-11-13 06:13:27
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon-apple-map-integrated.jpg"><img alt="ibeacon apple map integrated" class="alignnone size-medium wp-image-973" height="165" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon-apple-map-integrated-300x165.jpg" width="300"/></a><br/>
+苹果已经显示了一系列促进发展iBeacon平台的战略及执行细节，日前，AMC（Apple Maps Connect)加入了对iBeacon的支持.
+
+每个商业主体都可以在苹果地图上注册并维护自己的地图服务，并可以注册自己的iBeacon信息，但目前仅限于高客流商业主（每年100万以上客流），他们可以申请把自己部署的iBeacon信息“嵌入”在苹果地图中，这样结合营销可以提高销售量。现在对这项新服务拭目以待，在不远的未来，我们设想苹果会向中小商业主提供定制化的平台，允许他们维护自己的iBeacon推送信息，检测Beacon硬件数据和统计。一点是毋庸置疑的，苹果将让iBeacon技术逐渐变现。</p>
+
+
+<p>转载自：iBeacon粉丝网 » APPLE地图整合iBeacon功能</p>

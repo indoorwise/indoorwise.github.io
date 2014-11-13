@@ -1,0 +1,16 @@
+---
+layout: post
+title: "iBeacon蓝牙技术点亮物联网化智慧城市"
+date: 2014-11-13 06:18:38
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon智慧城市天津.jpg"><img alt="ibeacon智慧城市天津" class="alignnone size-medium wp-image-914" height="167" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon智慧城市天津-300x167.jpg" width="300"/></a><br/>
+物联网时代，以大数据、云计算、移动、社交为主的创新技术正在颠覆传统的生活、工作模式。10月31日, “2014年首届天津智慧城市建设与发展高峰论坛”在天津开幕，此次峰会中，一款应用最新iBeacon蓝牙技术的“智慧城市”App成为了一道科技新亮点，它使与会者在参会期间充分体验移动互联网与物联网时代的“智慧会议”。<br/>
+
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon智慧城市天津11.jpg"><img alt="ibeacon智慧城市天津1" class="alignnone size-medium wp-image-916" height="175" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon智慧城市天津11-300x175.jpg" width="300"/></a><br/>
+应用于此次峰会中的“智慧城市”App是基于iBeacon CS（www.ibeaconcs.com）平台开发的一站式会务信息化移动客户端。它将物联网化的基于位置的iBeacon蓝牙设备与手机应用相结合，帮助会议组织者管理会议进程，给参会者更加智能实时的服务。通过会场内覆盖的多个iBeacon 蓝牙设备，为与会者提供会场、展厅和就餐区的室内位置指引，并且推送基于位置的实时消息：包含了欢迎入场、会议流程以及文件共享下载等服务，通过现场的互动体验，做到精准服务到每个参会者，建立参会者与主办方的深度沟通，开启完美智慧会议。<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon智慧城市天津2.jpg"><img alt="ibeacon智慧城市天津2" class="alignnone size-medium wp-image-917" height="173" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon智慧城市天津2-300x173.jpg" width="300"/></a><br/>
+iBeacon蓝牙技术是苹果公司结合蓝牙超低功耗无线技术Bluetooth Low Energy所开发的一套开放性协议。利用蓝牙技术创建信号区域，当支持蓝牙的手机进入该区域，相应的应用可以进行信息推送或者近场定位导航，还可以和基站进行通信以及数据交换。目前这项技术已经应用在展会、旅游、商场等行业中，这次是iBeacon技术在国内首次应用于峰会，契合“智慧城市”的主题，将物联网的最新进展应用于会议服务当中，让参会者真实感受到最新科技给我们的生活带来的改变。</p>
+
+
+<p>转载自：iBeacon粉丝网 » iBeacon蓝牙技术点亮物联网化智慧城市</p>

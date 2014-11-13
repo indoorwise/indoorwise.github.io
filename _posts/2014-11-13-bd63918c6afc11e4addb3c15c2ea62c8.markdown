@@ -1,0 +1,20 @@
+---
+layout: post
+title: "iBeacon定位技术打造智能酒店应用"
+date: 2014-11-13 06:17:26
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon酒店应用1.jpg"><img alt="ibeacon酒店应用1" class="alignnone size-medium wp-image-924" height="106" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon酒店应用1-300x106.jpg" width="300"/></a><br/>
+Smartstay就是一款基于iBeacon定位技术打造智能酒店的应用。它能实时定点向客户推送相关消息创造更多消费，并实现云同步让酒店能够记录和分析客户的动态，为酒店带来收益的同时保障客户对酒店的忠诚度。</p>
+
+
+<p>目前Smatstay 的功能涵盖酒店入住、信息实时定点推送、客房服务、退房等。当客户到前台准备Check In 时，iBeacon 检测到客户的预定信息，不用排队便能办理手续直接入住，接下来进入房间，iBeacon 装置又检测到手机信号，向客户推送酒店的各种服务信息，如WiFi 密码、泳池开放时间等，在饭点又会告知客户今日有什麽特色食物、折扣情况等。</p>
+
+
+<p>而且，Smartstay 还会帮助酒店对SPA、餐厅、酒吧等服务实行交叉销售，针对客户的偏好进行个性化推送以保证客户对酒店的忠诚度，Smartstay 还会将用户的动态云同步并进行分析，记录何时、何地客户做了什麽，帮助酒店做好更精确的营销。</p>
+
+
+<p>smartstay 目前有三种付费方式，根据推送信息量、ibeacon 数量等分别设為基础版本、独立系统版本和全面整合版本，它面向商家收费，不过每种都有一个月的试用期。</p>
+
+
+<p>转载自：iBeacon粉丝网 » iBeacon定位技术打造智能酒店应用</p>

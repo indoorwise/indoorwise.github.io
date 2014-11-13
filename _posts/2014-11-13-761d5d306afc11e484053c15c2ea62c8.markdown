@@ -1,0 +1,196 @@
+---
+layout: post
+title: "独家重磅干货：全球iBeacon硬件厂商硬件分析报告"
+date: 2014-11-13 06:15:27
+categories: indoorwise ibeacon
+---
+<p>在这个分析报告里检测了全球16家iBeacon制造商的产品，包括Estimote,Kontakt和Gimbal等。在过去的三个月里，我们对这些iBeacon硬件在多种条件下进行了多方面的测试，这是全球第一份最全面的硬件分析评测报告。值得一提的是，我们国内的iBeacon厂商四月兄弟,深圳的Minew和reabearlab也在其中，值得祝贺及鼓励。<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图1.jpg"><img alt="ibeacon硬件分析报告图1" class="alignnone size-medium wp-image-939" height="198" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图1-300x198.jpg" width="300"/></a><br/>
+图1</p>
+
+
+<p>Beacon是基于低功耗蓝牙4.0（BLE4.0)的技术，虽然iBeacon是由苹果推出，但众多厂商的硬件也同样支持安卓，正如低功耗这个名字，Beacon硬件必须有非常好的省电及电量续航能力，尤其在大规模商业部署里面，对Beacon电量的监控及电池的更换是一个高成本工作，所以电池的可管理性是非常重要的，很多客户忽略了这一点，在这个报告里，我们也着重测试了这一项。目前市场上存在的Beacon有各种形状及形式，并含有多家厂商的核心芯片，不同型号的电池及固件，在这个报告里我们也横向比较了这些参数。</p>
+
+
+<p>此报告评出了几个显著特点的Beacon如下图：<br/>
+最时尚Beacon:Estimote<br/>
+最好性能Beacon:Kontact<br/>
+性价比最高Beacon:Minew<br/>
+最安全（防非法调用）的Beacon:Gimbal<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图2.jpg"><img alt="ibeacon硬件分析报告图2" class="alignnone size-medium wp-image-940" height="106" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图2-300x106.jpg" width="300"/></a><br/>
+图2</p>
+
+
+<p>Introduction to Beacons<br/>
+Beacon是一个由小尺寸电池驱动的设备。他们发送BLE信号，信号可被移动设备识别，移动设备再和云端服务器进行通信，根据获取信号的标识得到相应数据。Beacon硬件主要由四部分组成，如下图：<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图3.png"><img alt="ibeacon硬件分析报告图3" class="alignnone size-medium wp-image-941" height="72" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图3-300x72.png" width="300"/></a><br/>
+图3</p>
+
+
+<p>Beacon硬件主要又BLE射频微控制器及一个电池构成。新的射频芯片已经对低功耗蓝牙进行了优化，而老版本是对传统蓝牙而设计的，老版本会非常费电。目前在市场上主要的射频芯片制造商有两家，一是德州仪器（TI),二是Nordic, 他们提供了主芯片及陆续推出了更符合Beacon的固件。在国内，也有厂商的主芯片是基于CSR的。<br/>
+纽扣电池是Beacon厂商最受欢迎的配置，这些电池基本上都是锂电池，可以提供最多1000毫安的储存电量，最通用的是240毫安的电池（CR2032），620毫安电池（CR2450)和1000毫安电池（CR2477),尺寸也是由小至大。这些纽扣电池也被广泛应用于放丢器与数字手表上。有些厂商采用了碱性电池，这些电池经常被用在数字相机及遥控器上，一个通常的碱性电池可以具备2000毫安电量，比如我们国内的5号电池，它可以提供给Beacon充足的电量。最后，有些Beacon支持外部电源，他们可以被安装在墙壁或者通过USB供电，但这受限于安装位置是否有插座等条件，需要强电或弱电布线。也部分违背了Beacon的最大优势之一就是灵活部署性。<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图4.gif"><img alt="ibeacon硬件分析报告图4" class="alignnone size-medium wp-image-942" height="61" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图4-300x61.gif" width="300"/></a><br/>
+图4</p>
+
+
+<p>每个Beacon都有专属的固件，它是一个逻辑（或者叫程序编码）可以让硬件工作起来。固件可以通过控制各种硬件属性从而影响到电量消耗及电池寿命。两个最重要属性包括：<br/>
+<strong>发射电量（tx power):</strong>Beacon设备发射信号需要一个基础电量，就叫做tx power。随着信号在空气中传播，收到的信号强度会随距离衰减。tx power越大传输的距离越远，相反，tx power越小，电量损失越小，电池使用越长，所以要找到之间的平衡。<br/>
+<strong>广播间隔：</strong>是指Beaon发射信号的频率。100ms间隔意味着每隔100ms硬件发射一次信号（或者说一秒钟发10次）。频率越高越耗电，但频率过低会让接受的移动设备错过识别间隔，这也需要很好的平衡，最好根据客户的实际业务场景进行调节。</p>
+
+
+<p>每个厂商的Beacon会用自己的方法配置硬件和参数（比如tx power和广播间隔）。一些Beacon同时提供基于手机的配置软件比如Kontact,Estimote,RadBeacon和Bluesense。还有一些Beacon提供开放的配置接口给第三方GATT客户端进行配置（比如LightBlue 或者Linux上的Gattool），支持GATT方法的好处是可以快速配置大量成百的Beacons。</p>
+
+
+<p>还有一些Beacon厂商，比如Gimbal也提供除了iBeacon之外更多的特性，在这次测试报告里，我们仅仅分析iBeacon模式，因为其它特性模式下可能不支持iPhone/iPad尤其在APP后台运行的情况下。</p>
+
+
+<p>我们对比了tx Power和广播间隔在不同数值的情况及分析了其中的权衡。Beacon厂商通常设置tx power在-12dBmW,广播间隔在350ms至900ms, tx Power和最大的信号覆盖直线距离如下图：<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图5.png"><img alt="ibeacon硬件分析报告图5" class="alignnone size-medium wp-image-943" height="223" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图5-300x223.png" width="300"/></a><br/>
+图5</p>
+
+
+<p>Beacon虽然通过BLE信号实现微定位，但没有云端的服务器支持是不具备价值的。通常一个基于云端的应用会分析收到的信号并执行相应指令，如数据传输，是所有操作行动的“大脑中枢”。许多Beacon厂商提供了自己的云端后台解决方案，但普遍比较简单，主要原因是很难有平台兼具所有行业属性，所以只能提供较标准简单的功能。在这里，我们并不详细阐述不同厂商的云端后台区别。</p>
+
+
+<p>Beacon如果能与云端后台进行通信必须被嵌入在移动APP上，它是与BLE信号的第一个触电，导致所有后续动作，不同厂商都提供自己的SDK,任何开发者都可以比较容易嵌入SDK，进行相应厂商的Beacon感知调用。</p>
+
+
+<p>在此报告里我们分析了不同Beacon的工作电量水平，为了精确测量这一结果，我们把不同配置参数的每个Beacon在实验室放置了3个月，在这三个月里，我们会定期测量电量水平（从100%电量开始逐渐递减），我们也测量了每个Beacon的当前耗电以毫安为单位。每个Beacon有初始的设置参数，我们统一把tx power设置成为-12 dBmW，广播间隔设置成645ms,这是一个比较理想优化的配置。由于大多数Beacon具备三个月以上的电池寿命，我们用了当前耗电量去推断在我们这3个月实验以后的电量寿命收据，在现实环境中，电池寿命一般仅为理论量的75%，所以我们对于结果乘以了0.75这个参数去。</p>
+
+
+<p>标准电池寿命：我们对于每个Beacon假设了基于以上理想优化参数的电池寿命，作为标准电池寿命，这样对每个Beacon都是公平的。下图是我们的实验品及器材：<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图6.jpg"><img alt="ibeacon硬件分析报告图6" class="alignnone size-medium wp-image-944" height="105" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图6-300x105.jpg" width="300"/></a><br/>
+图6</p>
+
+
+<p>我们聚焦射频芯片组在两种最普遍的四种产品上：TI的CC254x,Nordic的nRF51822, Bluegiga的BLE112/BLE113,还有Gimbal的控制器。虽然还有其它选择，但以上四种占据95%以上的市场份额。<br/>
+在这一部分我们提供了一个详细的在这些芯片工作于iBeacon模式下的电池耗电研究。TI，Nordic和Bluegiga支持不同的tx power和广播间隔，Gimabl提供了额外的Bluetooth MAC随机化层，只是其它三家不具备的，这也决定了它更耗电。Gimbal Beacon仅仅支持有限的配置和广播间隔，除了645ms之外都不能改变。<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图7.png"><img alt="ibeacon硬件分析报告图7" class="alignnone size-medium wp-image-945" height="152" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图7-300x152.png" width="300"/></a><br/>
+图7</p>
+
+
+<p>在下图，对于每个芯片，我们总结了在-12dBm tx Power（约15米距离），645ms间隔，CR2032电池情况下的对比：</p>
+
+
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图8.png"><img alt="ibeacon硬件分析报告图8" class="alignnone size-medium wp-image-946" height="212" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图8-300x212.png" width="300"/></a><br/>
+图8</p>
+
+
+<p>在四家芯片厂商里显然表现最好的是TI和Nordic, TI是在2009年上市的，Nodic则是在2012年，所以Nordic理所当然成为最优化的iBeaon模式芯片。</p>
+
+
+<p>再来看看所有Beacon供应商的表现吧（请注意使用的是不同容量的电池）：<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图9.jpg"><img alt="ibeacon硬件分析报告图9" class="alignnone size-medium wp-image-947" height="73" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图9-300x73.jpg" width="300"/></a><br/>
+图9</p>
+
+
+<p>IKBS 102beacon是西班牙哈的Accent system基于TI芯片设计，</p>
+
+
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图10.jpg"><img alt="ibeacon硬件分析报告图10" class="alignnone size-medium wp-image-948" height="73" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图10-300x73.jpg" width="300"/></a><br/>
+图10</p>
+
+
+<p>Apirl Brother 241，是中国大陆的公司，基于TI芯片。<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图11.jpg"><img alt="ibeacon硬件分析报告图11" class="alignnone size-medium wp-image-949" height="68" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图11-300x68.jpg" width="300"/></a><br/>
+图11</p>
+
+
+<p>BlueBar Beacon是由英国Bluesense Networks公司基于Bluegiga芯片设计<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图12.jpg"><img alt="ibeacon硬件分析报告图12" class="alignnone size-medium wp-image-950" height="75" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图12-300x75.jpg" width="300"/></a><br/>
+图12</p>
+
+
+<p>Estimote是全球iBeacon的领头羊，它的时尚外观及良好的性能受到广大开发者的追捧，这家总部位于旧金山的公司是从Y-Combninator孵化毕业，芯片基于Noridc的NR51822,在今年5月发布的1.9和2.1版本对电量进行了固件优化，提高了15%-30%。</p>
+
+
+<p>下面的图片是Estimote 固件1.9版本和2.1版本的电量续航结果：<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图13.png"><img alt="ibeacon硬件分析报告图13" class="alignnone size-medium wp-image-951" height="300" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图13-300x300.png" width="300"/></a><br/>
+图13<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图14.png"><img alt="ibeacon硬件分析报告图14" class="alignnone size-medium wp-image-952" height="291" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图14-300x291.png" width="300"/></a><br/>
+图14</p>
+
+
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图15.jpg"><img alt="ibeacon硬件分析报告图15" class="alignnone size-medium wp-image-953" height="74" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图15-300x74.jpg" width="300"/></a><br/>
+图15</p>
+
+
+<p>高通的gimbal可以提供标准的iBeacon模式和优化模式，并具备mac地址防盗用功能以提高安全性，下图显示了在两个模式下的工作数据结果：<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图16.png"><img alt="ibeacon硬件分析报告图16" class="alignnone size-medium wp-image-954" height="300" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图16-296x300.png" width="296"/></a><br/>
+图16<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图17.png"><img alt="ibeacon硬件分析报告图17" class="alignnone size-medium wp-image-955" height="280" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图17-300x280.png" width="300"/></a><br/>
+图17</p>
+
+
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图18.jpg"><img alt="ibeacon硬件分析报告图18" class="alignnone size-medium wp-image-956" height="76" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图18-300x76.jpg" width="300"/></a><br/>
+图18<br/>
+Glimworm Beacon由荷兰公司设计，基于TI CR2450芯片。</p>
+
+
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图19.jpg"><img alt="ibeacon硬件分析报告图19" class="alignnone size-medium wp-image-957" height="76" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图19-300x76.jpg" width="300"/></a><br/>
+图19<br/>
+Kontakt最开始提供给盲障人士beacon导航方案，但目前已经拓展到各个行业，基于Nordic的芯片，下图是它的工作结果：</p>
+
+
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图20.png"><img alt="ibeacon硬件分析报告图20" class="alignnone size-medium wp-image-958" height="277" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图20-300x277.png" width="300"/></a><br/>
+图20<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图21.jpg"><img alt="ibeacon硬件分析报告图21" class="alignnone size-medium wp-image-959" height="76" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图21-300x76.jpg" width="300"/></a><br/>
+图21</p>
+
+
+<p>Particle beacon是由一家美国公司KST设计，设计简洁，KST扮演了OEM的角色，任何合作公司可以打印自己的logo甚至注册客户的FCC, IC和CE。<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图22.jpg"><img alt="ibeacon硬件分析报告图22" class="alignnone size-medium wp-image-960" height="74" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图22-300x74.jpg" width="300"/></a><br/>
+图22</p>
+
+
+<p>Minew是中国深圳的一家公司设计，基于TI芯片。测试是基于Minew MS54V3。还有Minew MS56是防水型，表面是一层防水橡胶，适用于室外。Minew MS55可以容纳两个CR2477电池，当然尺寸会稍大一些。下图是工作结果：<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图23.png"><img alt="ibeacon硬件分析报告图23" class="alignnone size-medium wp-image-961" height="295" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图23-300x295.png" width="300"/></a><br/>
+图23</p>
+
+
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图24.jpg"><img alt="ibeacon硬件分析报告图24" class="alignnone size-medium wp-image-962" height="75" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图24-300x75.jpg" width="300"/></a><br/>
+图24</p>
+
+
+<p>Radius Network设计的Beacon，基于Nordic,美国公司，他们同时提供基于USB的。<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图25.jpg"><img alt="ibeacon硬件分析报告图25" class="alignnone size-medium wp-image-963" height="76" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图25-300x76.jpg" width="300"/></a><br/>
+图25</p>
+
+
+<p>Reco<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图26.jpg"><img alt="ibeacon硬件分析报告图26" class="alignnone size-medium wp-image-964" height="86" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图26-300x86.jpg" width="300"/></a><br/>
+图26</p>
+
+
+<p>ReadBearLab</p>
+
+
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图27.jpg"><img alt="ibeacon硬件分析报告图27" class="alignnone size-medium wp-image-965" height="74" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图27-300x74.jpg" width="300"/></a><br/>
+图27</p>
+
+
+<p>Roximity<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图28.jpg"><img alt="ibeacon硬件分析报告图28" class="alignnone size-medium wp-image-966" height="75" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图28-300x75.jpg" width="300"/></a><br/>
+图28</p>
+
+
+<p>Sensorberg<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图29.jpg"><img alt="ibeacon硬件分析报告图29" class="alignnone size-medium wp-image-967" height="76" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图29-300x76.jpg" width="300"/></a><br/>
+图29</p>
+
+
+<p>Sensortag<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图30.jpg"><img alt="ibeacon硬件分析报告图30" class="alignnone size-medium wp-image-968" height="76" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图30-300x76.jpg" width="300"/></a><br/>
+图30</p>
+
+
+<p>tōdally</p>
+
+
+<p>总结：<br/>
+在这个分析报告里我们着重阐述了市场上4家芯片16家厂商的产品测试结果，总结图如下：<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图31.gif"><img alt="ibeacon硬件分析报告图31" class="alignnone size-medium wp-image-969" height="204" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon硬件分析报告图31-300x204.gif" width="300"/></a><br/>
+图31</p>
+
+
+<p>转载自：iBeacon粉丝网 » 独家重磅干货：全球iBeacon硬件厂商硬件分析报告</p>
