@@ -1,0 +1,13 @@
+---
+layout: post
+title: "又一巨头来了！三星发布类iBeacon营销平台！"
+date: 2014-11-14 11:19:54
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon三星加入.jpg"><img alt="ibeacon三星加入" class="alignnone size-medium wp-image-992" height="183" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon三星加入-300x183.jpg" width="300"/></a><br/>
+苹果发布了iBeacon，三星坐不住了，近日宣布了自己的同类计划，命名为Proximity,定义是一个运用三星先进的位置及感知技术连接消费者与所处位置的移动营销平台。
+
+这比iBeacon更进了一步，苹果目前只是iBeacon技术，而三星直接定义为市场营销平台。从技术上proximity与iBeacon也有明显的区别，iBeacon必须通过APP起作用，而Proximity是系统层面，这意味着与利用此技术的应用更深层次整合，不用安装APP就可以进行消息触发。Proximity可以与多种低功耗蓝牙Beacon协同工作，感兴趣尝试的可以 <a href="https://placedge.samsung.com/login/" target="_blank" title="三星proximity伙伴计划">登录三星的官方合作平台</a>.</p>
+
+
+<p>转载自：iBeacon粉丝网 » 又一巨头来了！三星发布类iBeacon营销平台！</p>
