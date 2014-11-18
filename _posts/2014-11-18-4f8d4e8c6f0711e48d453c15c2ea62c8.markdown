@@ -1,0 +1,32 @@
+---
+layout: post
+title: "这个….微信是要加进Beacon吗？！"
+date: 2014-11-18 17:43:11
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon微信.jpg"><img alt="ibeacon微信" class="alignnone size-medium wp-image-996" height="256" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon微信-300x256.jpg" width="300"/></a><br/>
+“摇一摇”是微信狠受欢迎的一个陌生人交（yue）友（pao）功能，先前也加入了摇一摇识别歌曲功能，但时间长了总会玩腻的。莫急，似乎一个重磅功能又要入驻“摇一摇”了。</p>
+
+
+<p>微信“摇一摇”曝新功能：狠好玩的样子<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon微信1.jpg"><img alt="ibeacon微信1" class="alignnone size-medium wp-image-997" height="101" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon微信1-300x101.jpg" width="300"/></a><br/>
+从曝光图来看，未来微信“摇一摇”会加入一个名叫“周边”的tab 模块（据称是临时出现），摇一摇即可获取周边信息。</p>
+
+
+<p>　　目前内含四种应用场景，分别是：</p>
+
+
+<p>　　摇班车信息：用户在班车前摇一摇，获取乘车信息</p>
+
+
+<p>　　摇住宿信息：用户在酒店大堂摇一摇，获取房间信息</p>
+
+
+<p>　　摇一摇签到：用户在会场前摇一摇，成功签到</p>
+
+
+<p>　　摇一摇投票：用户在晚会现场摇一摇，节目投票，且投票结果直接显示在屏幕上<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon微信2.jpg"><img alt="ibeacon微信2" class="alignnone size-medium wp-image-998" height="221" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon微信2-300x221.jpg" width="300"/></a></p>
+
+
+<p>转载自：iBeacon粉丝网 » 这个….微信是要加进Beacon吗？！</p>
