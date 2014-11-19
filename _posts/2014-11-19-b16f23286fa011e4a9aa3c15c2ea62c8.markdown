@@ -1,0 +1,17 @@
+---
+layout: post
+title: "你相信吗，iBeacon关键时刻也能救命！"
+date: 2014-11-19 12:01:09
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon-city.jpg"><img alt="ibeacon city" class="alignnone size-full wp-image-1003" height="194" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon-city.jpg" width="259"/></a><br/>
+iBeacon在多数案例里被应用在如何帮助商业组织盈利，如何优化服务体验等方面，但这一个小巧的技术硬件如今被创意的运用在了“救命”这一神圣的任务上。<br/>
+你是否观察过在马路上有多少人便走边看手机，尤其是在要过马路的时候，当车呼啸而过的时候，你是否会马上抬头退后一步惊出一身冷汗？！美国公布的数据是2014年有114人死于由于看手机过马路而造成的事故。
+
+美国的一家创业公司开发了一套体系，包括APP和硬件，他们计划建议交管部门在所有红绿灯十字路口部署iBeacon发射装置，让所有行人装上这个APP，当用户低头走路到路口忘记抬头时，屏幕上自动弹出警示提示已到十字路口，注意安全！</p>
+
+
+<p>小编觉得老美的同学们太有创意了，让技术更好的服务人类才是王道！</p>
+
+
+<p>转载自：iBeacon粉丝网 » 你相信吗，iBeacon关键时刻也能救命！</p>
