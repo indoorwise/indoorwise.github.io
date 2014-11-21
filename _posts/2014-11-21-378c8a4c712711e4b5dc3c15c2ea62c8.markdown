@@ -1,0 +1,13 @@
+---
+layout: post
+title: "看看iBeacon如何与线下零售用游戏的方式玩起来"
+date: 2014-11-21 10:36:37
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon零售游戏.jpg"><img alt="ibeacon零售游戏" class="alignnone size-medium wp-image-1007" height="191" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon零售游戏-300x191.jpg" width="300"/></a><br/>
+iBeacon与零售的结合其实有很多想象空间，如何让用户参与其中才是王道，这个视频会给大家一些启发！<br/>
+
+<embed align="middle" allowfullscreen="true" allowscriptaccess="always" height="400" quality="high" src="http://player.youku.com/player.php/sid/XODMwNjI0NDg4/v.swf" type="application/x-shockwave-flash" width="480"></embed></p>
+
+
+<p>转载自：iBeacon粉丝网 » 看看iBeacon如何与线下零售用游戏的方式玩起来</p>
