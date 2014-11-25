@@ -1,0 +1,13 @@
+---
+layout: post
+title: "独家视频：国外iBeacon创意营销方案"
+date: 2014-11-25 10:45:20
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon-idea.jpg"><img alt="ibeacon idea" class="alignnone size-medium wp-image-1015" height="200" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon-idea-300x200.jpg" width="300"/></a><br/>
+这是国外的一个公司制作的基于iBeacon的创意营销方案，提高品牌互动及传播率，供大家学习参考.<br/>
+
+<embed align="middle" allowfullscreen="true" allowscriptaccess="always" height="400" quality="high" src="http://player.youku.com/player.php/sid/XODM0MDgzNzUy/v.swf" type="application/x-shockwave-flash" width="480"></embed></p>
+
+
+<p>转载自：iBeacon粉丝网 » 独家视频：国外iBeacon创意营销方案</p>
