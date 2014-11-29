@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Poken集成NFC和iBeacon做会展服务"
+date: 2014-11-29 15:45:18
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon-poken.jpg"><img alt="ibeacon poken" class="alignnone size-medium wp-image-1025" height="147" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon-poken-300x147.jpg" width="300"/></a><br/>
+“绿色”会展服务商宣布在自己的会展技术平台上扩展出一项新功能，允许会议组织者可以以更方便的方式向参展者提供数字信息，命名为超级触点，基于NFC和iBeacon技术的混合应用。</p>
+
+
+<p>超级触点是一个数字贴纸，可以让参会人快捷得到参展商信息如公司介绍，产品介绍，社交账号或者视频等，只需用参会卡贴近在NFC超级触点上，所有在这个触点上的信息会自动的发送到参会者的邮箱，可以用浏览器打开。这一超级触点还可以支持嵌入GSM数据模块进行实时数据收集，进行自动签到或者追踪到会实时参与情况发送到后台，这利用了iBeacon技术。</p>
+
+
+<p>这类新技术的优势可以对会展行业产生巨大的影响，推动无纸化会展，让信息的传播与参展互动变为更有效。</p>
+
+
+<p>转载自：iBeacon粉丝网 » Poken集成NFC和iBeacon做会展服务</p>

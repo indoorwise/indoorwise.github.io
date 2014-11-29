@@ -1,0 +1,20 @@
+---
+layout: post
+title: "iBeacon的实际使用数据又来了！有用"
+date: 2014-11-29 15:44:55
+categories: indoorwise ibeacon
+---
+<p> <a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon-swirl-02.png"><img alt="ibeacon-swirl-02" class="alignnone size-medium wp-image-1021" height="224" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon-swirl-02-300x224.png" width="300"/></a><br/>
+美国的iBeacon方案商Swirl根据自己的数据发布了一份报告，表示美国的消费者正在拥抱这项新技术，在零售店知道此技术的消费者近半数使用了此功能，在这其中有众多消费者用Beacon收到的优惠券在结账时进行了抵用。这证明Beacon确实在逐渐影响消费者的购物行为：</p>
+
+
+<p>-%73的受访消费者表示基于Beacon的内容或优惠会提高他们在店内的下单购买可能性<br/>
+-%61表示如果做假期采购时店内收到移动内容或优惠会促使他们为假期买的更多<br/>
+-61&amp;表示他们会更多的光顾那些启用了Beacon市场活动的店铺<br/>
+-60%表示收到在店铺现场Beacon触发的营销信息会导致更多的消费<br/>
+-在使用了Beacon功能的消费者中，有50%在结账时使用了收到的优惠券<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon-swirl-03.png"><img alt="ibeacon-swirl-03" class="alignnone size-medium wp-image-1022" height="274" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon-swirl-03-300x274.png" width="300"/></a><br/>
+相比没有使用Beacon的店铺，使用的店铺明显增加了销售额，并且增强了用户的品牌感知和互动，在这一过程中，店铺管理者正在快速学习如何用活动来促进销售，并逐渐优化这一过程。</p>
+
+
+<p>转载自：iBeacon粉丝网 » iBeacon的实际使用数据又来了！有用</p>

@@ -1,0 +1,21 @@
+---
+layout: post
+title: "苹果公司的iBeacon研发人员给你的10点忠告！"
+date: 2014-11-29 15:44:01
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon-苹果十点忠告.jpg"><img alt="ibeacon 苹果十点忠告" class="alignnone size-full wp-image-1018" height="194" src="http://www.ibeaconfans.com/wp-content/uploads/2014/11/ibeacon-苹果十点忠告.jpg" width="259"/></a><br/>
+1, iBeacon是一个技术服务，不是一个产品，任何公司都需要找到适合他们自己的应用点，而不是固定模式。<br/>
+2，Beacon和APP起到的重要作用是将线上和实体进行关联甚至捆绑，起到比如提升购物体验的作用。<br/>
+
+3，iBeacon官方是不允许方案商厂商跟踪用户，除非法律上用户允许。<br/>
+4，APP和Beacon可以在后台运行并积极触发消息，或者“默默”的收集信息以更了解消费者。<br/>
+5，许可制对iBeacon是关键的，确认用户愿意使用APP，并愿意接受信息。<br/>
+6，当你想在自己的购物场所环境引入iBeacon近距离营销技术时就去做吧，不用过度担心消费者的接受度，它是一个友好的技术服务。<br/>
+7，在做方案时请让技术与市场团队都参与进来，iBeacon不是一个简单的技术，需要两方的通力合作才能产生有效出色的方案。<br/>
+8，iBeacon与其它定位技术并不冲突，基于位置体验的未来是各种技术的混合，发挥各自的长处。<br/>
+9，重要的是内容关联性，个性化和优化体验，基于市场的经验去确认你推送的信息是否在合适的时间与地点。<br/>
+10，数据获取越多并转化为可读可用，你的iBeacon就越有效。</p>
+
+
+<p>转载自：iBeacon粉丝网 » 苹果公司的iBeacon研发人员给你的10点忠告！</p>
