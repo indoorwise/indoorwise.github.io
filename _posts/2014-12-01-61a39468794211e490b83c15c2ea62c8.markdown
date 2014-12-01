@@ -1,0 +1,17 @@
+---
+layout: post
+title: "公交车与零售店也有交集：iBeacon"
+date: 2014-12-01 18:11:14
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon-BUS零售.jpg"><img alt="ibeacon BUS零售" class="alignnone size-medium wp-image-1029" height="200" src="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon-BUS零售-300x200.jpg" width="300"/></a><br/>
+英国的firstGroup交通运输公司与户外媒体广告公司Proxama近日推出了一个新玩意儿，旨在提高消费者对品牌的感知度与参与度，他们通过一个叫Loka的APP结合iBeacon向二十多家街边零售品牌提供了一个创新的营销服务：当消费者在公交车上路过商业街时，手机会受到事先已经部署好iBeacon服务零售品牌店的信号，手机APP会立刻弹出此零售品牌吸引人的折扣和新品，从而吸引消费者下车或下次光顾此零售店。</p>
+
+
+<p>这是一个有创意的iBeacon零售应用，看起来有点天马行空，但人们往往在坐公交车时很无聊，这是如果随着公交前进动线上的位置收到相关的品牌折扣信息也许是个不错的打发无聊时间的方法，这样对消费者和商家都两全其美。</p>
+
+
+<p>目前这家公司将会试用6个月，如果效果不错会对旗下全英公交网络线路上进行商业规模部署！</p>
+
+
+<p>转载自：iBeacon粉丝网 » 公交车与零售店也有交集：iBeacon</p>
