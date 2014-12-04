@@ -1,0 +1,17 @@
+---
+layout: post
+title: "让iBeacon变成你的天气助手"
+date: 2014-12-04 17:27:01
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon-japan天气.jpg"><img alt="ibeacon japan天气" class="alignnone size-medium wp-image-1037" height="225" src="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon-japan天气-300x225.jpg" width="300"/></a><br/>
+你是否遇到过忘记看天气预报下雨出门没带雨伞？或者看了天气预报，匆匆出门还是忘带了。日本一家公司推出了一个基于iBeacon的使用工具，可以让你轻松甩掉这个烦恼。
+
+只需要下载这个APP,并且购买一个iBeacon小装置放在门口，当每天出门时不用打开APP,如果要下雨APP会自动弹出提醒你带好雨伞！这是不是很酷。这个iBeacon小装置叫天气提醒信标，用户非常容易上手和设置，一般家庭主妇购买后完全可以自己操作。<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon-japan天气1.jpg"><img alt="ibeacon japan天气1" class="alignnone size-medium wp-image-1041" height="300" src="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon-japan天气1-168x300.jpg" width="168"/></a><br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon-japan天气2.jpg"><img alt="ibeacon japan天气2" class="alignnone size-medium wp-image-1038" height="300" src="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon-japan天气2-168x300.jpg" width="168"/></a><br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon-japan天气3.jpg"><img alt="ibeacon japan天气3" class="alignnone size-medium wp-image-1039" height="300" src="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon-japan天气3-168x300.jpg" width="168"/></a><br/>
+看来iBeacon不但可以在商业上发挥，可以更好的利用其特性服务我们的生活，想象空间很大啊：）</p>
+
+
+<p>转载自：iBeacon粉丝网 » 让iBeacon变成你的天气助手</p>

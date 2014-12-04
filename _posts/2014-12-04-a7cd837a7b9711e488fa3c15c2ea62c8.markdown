@@ -1,0 +1,19 @@
+---
+layout: post
+title: "分众传媒已经成为全球最大Beacon网络！"
+date: 2014-12-04 17:26:41
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon-focus-media.jpg"><img alt="ibeacon focus media" class="alignnone size-medium wp-image-1032" height="179" src="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon-focus-media-300x179.jpg" width="300"/></a><br/>
+分众传媒已经建成了十万个楼宇的ibeacon点，成为全球最大的ibeacon网络。手机淘宝与分眾的战略携手，是在升级的淘宝客户端中插入sdk，独家支持分眾的ibeacon网络。在电梯口的分众屏幕提示下，打开手机淘宝“摇一摇”即可进入与屏上產品对应的优惠秒杀抽奖页面互动。</p>
+
+
+<p>此次“11.11移动o2o购物狂欢节”活动的核心是分众传媒借助低功耗蓝牙技术与智能手机，帮助消费者实现与线下媒体的互动，进而帮助商家实现传统线下媒体营销及互联网媒体营销的打通。同现有的二维码互动形式相比，这种方式对消费者的感官无侵入，操作更简单，也能适应许多不适宜扫码的场景。</p>
+
+
+<p>例如，某汽车品牌在分眾传媒上投放了线下广告，当一块广告屏在播放这段广告时，当时看到的用户就可以通过“摇一摇”与该品牌进行互动，互动的形式由商家定义，可以是抽奖，也可以是在阅读品牌故事后派发小礼物，甚至是“试驾有礼”这样的活动。<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon-focus-media2.jpg"><img alt="ibeacon focus media2" class="alignnone size-medium wp-image-1033" height="155" src="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon-focus-media2-300x155.jpg" width="300"/></a><br/>
+此次双十一淘宝摇一摇的巨大成功，只是分眾这个全球最大的微定位网络的低调试水。里面的商业化潜力，无疑极其惊人！‍分众和淘宝的影响方式让消费者和商家的需求都得到了满足：消费者得到了实惠，而商家则得到了更多的品牌宣传并和潜在客户产生了联系。这是传统线下媒体或互联网媒体都无法独立做到的。‍由于其广泛覆盖110多个主流城市及地区，日均影响近2亿都市主流消费人群，人群年龄集中在20-45岁，以白领、学生、商务经验為主，因此分众传媒的核心竞争力在於可以整合无处不在的影响力，掌控主流人群的消费力。</p>
+
+
+<p>转载自：iBeacon粉丝网 » 分众传媒已经成为全球最大Beacon网络！</p>

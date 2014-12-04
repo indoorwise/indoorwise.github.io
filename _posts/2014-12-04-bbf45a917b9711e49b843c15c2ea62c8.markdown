@@ -1,0 +1,15 @@
+---
+layout: post
+title: "巴克莱银行启用iBeacon提高客户服务"
+date: 2014-12-04 17:27:15
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon-barclays.jpg"><img alt="ibeacon barclays" class="alignnone size-medium wp-image-1045" height="195" src="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon-barclays-300x195.jpg" width="300"/></a><br/>
+英国巴克莱银行宣布试推行iBeacon,从今天开始，巴克莱银行推出基于iBeacon的Barclays Access的服务，当一个打开此服务的客户进入银行时将自动提醒员工进行服务。
+
+客户不需要每次到银行解释自己需要什么服务，只需提前在APP上选择好服务即可，同时客户可以上传自己的照片，这样银行员工会认出他们并迅速得知要办理的业务。前台接待员工的手上会配备iPad，当有客户进入会自动弹屏提醒。<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon-barclaysaccess1.jpg"><img alt="ibeacon barclaysaccess1" class="alignnone size-medium wp-image-1046" height="230" src="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon-barclaysaccess1-300x230.jpg" width="300"/></a><br/>
+不知道国内的银行何时能提高服务水准？！</p>
+
+
+<p>转载自：iBeacon粉丝网 » 巴克莱银行启用iBeacon提高客户服务</p>
