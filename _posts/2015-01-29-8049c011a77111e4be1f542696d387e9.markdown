@@ -1,0 +1,14 @@
+---
+layout: post
+title: "日本居酒屋连锁集团部署iBeacon"
+date: 2015-01-29 12:44:25
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon居酒屋.jpg"><img alt="ibeacon居酒屋" class="alignnone size-medium wp-image-1069" height="86" src="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon居酒屋-300x86.jpg" width="300"/></a><br/>
+日本最大的餐饮连锁集团之一居酒屋在旗下600家门店正式部署iBeacon,向店铺周边和进店客户推送优惠信息，相关负责人表示运用iBeacon技术推送优惠券只是目的其一，更重要的是利用移动互联网将自己的客户进行精准识别和发展移动端的客户关怀体系，而iBeacon是非常好的切入口，让客户能装上APP，这样才能延展到其它客户运维功能。</p>
+
+
+<p>近半年iBeacon在日本的落地非常迅速，越来越多的零售商认识到移动营销的作用，iBeacon作为将实体与线上结合的重要工具已经逐渐获得认可，在这一领域日本已经涌现出众多专业公司。</p>
+
+
+<p>转载自：iBeacon粉丝网 » 日本居酒屋连锁集团部署iBeacon</p>

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "星巴克正式宣布进入iBeacon营销阵营！"
+date: 2015-01-29 12:43:38
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon-starbuck.png"><img alt="ibeacon starbuck" class="alignnone size-medium wp-image-1060" height="300" src="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon-starbuck-213x300.png" width="213"/></a><br/>
+星巴克近日宣布将在实体店部署iBeacon以提高顾客互动及忠诚度，首先部署在其Roastery and Tasting工厂体验店，第一步主要用途为忠诚度计划和让消费者了解咖啡的相关信息比如制作流程。相关负责人表示因为星巴克的受众对新兴技术的接受度较高，并且众多消费者愿意参与到星巴克各种市场营销活动中来，所以预计效果会达到预期。这项部署将从美国市场开始，逐渐扩展至全球。</p>
+
+
+<p>转载自：iBeacon粉丝网 » 星巴克正式宣布进入iBeacon营销阵营！</p>

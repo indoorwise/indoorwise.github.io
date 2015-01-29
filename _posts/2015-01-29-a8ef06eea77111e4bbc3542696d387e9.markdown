@@ -1,0 +1,12 @@
+---
+layout: post
+title: "视频：基于iBeacon微信摇一摇Demo"
+date: 2015-01-29 12:45:33
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/01/微信iBeacon摇一摇.jpg"><img alt="微信iBeacon摇一摇" class="alignnone size-medium wp-image-1164" height="212" src="http://www.ibeaconfans.com/wp-content/uploads/2015/01/微信iBeacon摇一摇-300x212.jpg" width="300"/></a><br/>
+借花献佛，国内某公司做的iBeacon结合微信摇一摇的DEMO,给大家个直观印象。<br/>
+<embed align="middle" allowfullscreen="true" allowscriptaccess="always" height="400" quality="high" src="http://player.youku.com/player.php/sid/XODc3NzkwMTk2/v.swf" type="application/x-shockwave-flash" width="480"></embed></p>
+
+
+<p>转载自：iBeacon粉丝网 » 视频：基于iBeacon微信摇一摇Demo</p>

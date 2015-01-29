@@ -1,0 +1,12 @@
+---
+layout: post
+title: "让iBeacon帮你解决定会议室难题！"
+date: 2015-01-29 12:44:07
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon会议室寻找.jpg"><img alt="ibeacon会议室寻找" class="alignnone size-medium wp-image-1063" height="206" src="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon会议室寻找-300x206.jpg" width="300"/></a><br/>
+找会议室是在公司最头疼的问题之一，巧妙利用iBeacon就可以解决这个问题：）<br/>
+<embed align="middle" allowfullscreen="true" allowscriptaccess="always" height="400" quality="high" src="http://player.youku.com/player.php/sid/XODQ2MjY4OTgw/v.swf" type="application/x-shockwave-flash" width="480"></embed></p>
+
+
+<p>转载自：iBeacon粉丝网 » 让iBeacon帮你解决定会议室难题！</p>

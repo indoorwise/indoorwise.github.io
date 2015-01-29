@@ -1,0 +1,11 @@
+---
+layout: post
+title: "iBeacon与人力管理软件结合"
+date: 2015-01-29 12:45:58
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/01/ibeacon出勤系统.jpg"><img alt="ibeacon出勤系统" class="alignnone size-medium wp-image-1167" height="158" src="http://www.ibeaconfans.com/wp-content/uploads/2015/01/ibeacon出勤系统-300x158.jpg" width="300"/></a><br/>
+原先报道了一些利用iBeacon做签到的小案例，日本的一家iBeacon公司正式将这个功能商业化了，他们与人力管理软件解决方案商MoSP合作，将iBeacon嵌入到考勤管理模块，并推出相应硬件系统。任何员工只需接近考勤机器30厘米左右便可自动签到，当然目前只支持iphone4s和Android 4.3以上，所以硬件同时兼容了NFC。考勤签到是细分领域但具有巨大的市场，目前主要还是以实体卡作为主要技术手段，iBeacon等近距离感应技术的出现是否能优化甚至颠覆这个细分领域值得期待！</p>
+
+
+<p>转载自：iBeacon粉丝网 » iBeacon与人力管理软件结合</p>

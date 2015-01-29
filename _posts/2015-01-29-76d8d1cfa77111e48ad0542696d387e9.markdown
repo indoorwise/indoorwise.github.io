@@ -1,0 +1,29 @@
+---
+layout: post
+title: "英国希思罗机场iBeacon应用做了哪些服务"
+date: 2015-01-29 12:44:09
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon-xisiluo-london.jpg"><img alt="ibeacon xisiluo london" class="alignnone size-full wp-image-1066" height="192" src="http://www.ibeaconfans.com/wp-content/uploads/2014/12/ibeacon-xisiluo-london.jpg" width="262"/></a><br/>
+英国维珍大西洋航空公司近日在英国伦敦的希思罗机场进行iBeacon技术试点，为旅客提供更加良好的登机体验。</p>
+
+
+<p>据了解，基于BLE技术的iBeacon可以实现50米内的信息推送。试点在机场的T3登机口进行，用户需要下载苹果的iPhone应用才能体验该服务。</p>
+
+
+<p>当乘客达到T3登机口附近时，将会为乘客推送欢迎信息、登机时刻表，并且可以在iPhone锁屏的情况下启动自动登机。</p>
+
+
+<p>机场负责人表示，通过Beacon技术，可以了解乘客的基本信息，并且进行乘客在机场中的定位，如果有相应的服务或通知，随时了解乘客的位置所在，及时的为乘客提供服务。</p>
+
+
+<p>值得一提的是，机场方面还希望Beacon技术与体温计和加速计结合，如此工作人员可以实时的获得温度变化信息，及时的给乘客送上毛毯。</p>
+
+
+<p>而配上加速计，主要是对行李箱进行监控，未来乘客可以通过APP实时的了解行李箱的移动情况，并且了解行李箱的位置。</p>
+
+
+<p>此外机场人员还希望丰富iBeacon的服务内容，为乘客提供机场地图，了解各种出入口信息以及基础设施的位置，并增加娱乐系统，让乘客可以打发登机前的无聊时光。</p>
+
+
+<p>转载自：iBeacon粉丝网 » 英国希思罗机场iBeacon应用做了哪些服务</p>

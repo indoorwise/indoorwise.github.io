@@ -1,0 +1,26 @@
+---
+layout: post
+title: "颐和园iBeacon智能导游APP正式上线！"
+date: 2015-01-29 12:45:01
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/01/ibeacon_app_頤和園.png"><img alt="ibeacon_app_頤和園" class="alignnone size-medium wp-image-1154" height="126" src="http://www.ibeaconfans.com/wp-content/uploads/2015/01/ibeacon_app_頤和園-300x126.png" width="300"/></a><br/>
+9条精品线路推介、精准GPS及ibeacon定位、112处景点图文介绍和16个主景点的语音导游北京市属公园首款官方App“颐和园”正式上线，游客用手机下载，就可以拥有“私人定制”导游。</p>
+
+
+<p>颐和园中设有不少二维码提示牌。游客下载App后，打开手机蓝芽，游园时会实时接收景点讲解内容推送和精品线路，App像私人导游一样，为游客讲解游览线路及沿途景点故事。在万寿山、佛香阁等16个主要景区，App还会根据游客所处的景点提供生动的语音解说及详尽的图文介绍。</p>
+
+
+<p>ibeacon_app_颐和园</p>
+
+
+<p>借助精准的定位，游客还可随时查询到自己在园内的位置，以及公园内卫生间的位置。</p>
+
+
+<p>除传统导览地图、解说等功能外，此款App最大的特点在于应用了“iBeacon”传感设备，可自动收取当前位置的景点资讯。通过“iBeacon”传感设备进行定位，将对0米至50米范围内的客户端进行调节式触发。安装App后，进入景点就会弹出景点介绍。</p>
+
+
+<p>　　目前，颐和园已在东堤一带安装了设备，预计2月底可以开通免费WiFi，“在不影响景观和保护古建的基础上，还将逐步扩大WiFi的覆盖范围。此外，也可在App Store苹果网上商城，各大安卓网店豌豆荚、腾讯、百度、360、小米等应用市场免费下载使用。</p>
+
+
+<p>转载自：iBeacon粉丝网 » 颐和园iBeacon智能导游APP正式上线！</p>

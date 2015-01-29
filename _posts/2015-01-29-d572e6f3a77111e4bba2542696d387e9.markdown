@@ -1,0 +1,14 @@
+---
+layout: post
+title: "光能驱动的iBeacon来了"
+date: 2015-01-29 12:46:48
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/01/ibeacon光能驱动.jpg"><img alt="ibeacon光能驱动" class="alignnone size-medium wp-image-1174" height="204" src="http://www.ibeaconfans.com/wp-content/uploads/2015/01/ibeacon光能驱动-300x204.jpg" width="300"/></a><br/>
+1月23日，日本日航JAL的iBeacon供应商正式发布了一款新型号的硬件，这款iBeacon带有光能转化器（类似于太阳能板），可以捕获光转化为一部分电量供iBeacon运行及传输电量，当然电池和USB等电源还是要有的，光能目前是辅助，但未来可以设想完全由光能驱动的硬件。目前这款产品将被应用在日本AEON购物中心做实验性部署测试。</p>
+
+
+<p>电量问题一直是众多客户对iBeacon最关心和担心的问题之一，用光能是一个不错的大胆想法，但实际效果尚待验证。</p>
+
+
+<p>转载自：iBeacon粉丝网 » 光能驱动的iBeacon来了</p>

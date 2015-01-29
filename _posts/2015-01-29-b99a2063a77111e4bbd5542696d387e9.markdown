@@ -1,0 +1,26 @@
+---
+layout: post
+title: "银行3.0必备：台湾银行引入iBeacon营销平台"
+date: 2015-01-29 12:46:01
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/01/ibeacon台新银行.jpg"><img alt="ibeacon台新银行" class="alignnone size-medium wp-image-1170" height="168" src="http://www.ibeaconfans.com/wp-content/uploads/2015/01/ibeacon台新银行-300x168.jpg" width="300"/></a><br/>
+台湾台新银行看好Bank 3.0趋势，虚实整合的应用将成为下一波客户营销的最佳利器，因此自即日起与iBeacon服务商合作导入Apple iBeacon蓝芽技术，成为台湾首家将iBeacon同时运用在分行与信用卡特约商店的金融业者。</p>
+
+
+<p>台新银行支付金融处资深副总夏敏兰指出，iBeacon是Apple于2013年推出的低功耗蓝芽（BLE, Bluetooth Low Energy）技术，台新行动银行APP现整合iBeacon蓝芽传输技术后，推出命名为i-Check-in的优惠通知功能，让行动银行APP使用者在精准定位下，获得最即时的产品及优惠资讯，是行动定位服务（LBS,Location Based Service）新型态的创新应用。</p>
+
+
+<p>体验i-Check-in十分简单，台新行动银行APP的使用者只要开启手机蓝芽，进入指定分行，就可享有最新优利存款活动、台新卡优惠、投资市场快讯、艺文活动等即时通知；进入指定全家便利商店，亦有与17Life团购网合作推出之全家特选商品优惠资讯，台新银行透过这个平台将适时适地提供消费者最完整的讯息。</p>
+
+
+<p>即日起至2015年2月28日试行期间，使用最新版的台新行动银行APP（Apple iTunes或指定分行与全家便利商店扫描QR Code下载），在指定分行、全家便利商店内，可立即体验i-Check-in优惠通知功能，更可在APP上填写回馈问卷获得全家咖啡礼卷50元，限量400份。</p>
+
+
+<p>据Business Insider近期报告表示，美国百大零售商中有高达一半正在试验Apple iBeacon这项技术，预计今年底前将有三分之一的零售分店导入iBeacon系统；相信这股风潮很快就会吹到台湾，各行各业将会有更多的使用案例。</p>
+
+
+<p>夏敏兰指出，台新银行领先市场推出iBeacon试行，希望藉由消费者体验及意见回馈再调整与进化i-Check-in相关功能，预计下一阶段更将纳入Android手机，并扩展更多分行与信用卡特约商店，同时藉由iBeacon蒐集更多消费者行为，透过海量资料（BigData）的分析，有效率地规划客製化、个人化的服务，让台新银行在虚实整合（O2O, Online-to-Offline）服务上给客户不一样的新体验。</p>
+
+
+<p>转载自：iBeacon粉丝网 » 银行3.0必备：台湾银行引入iBeacon营销平台</p>

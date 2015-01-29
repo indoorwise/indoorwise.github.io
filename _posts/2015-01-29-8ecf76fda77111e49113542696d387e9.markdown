@@ -1,0 +1,12 @@
+---
+layout: post
+title: "iBeacon与iphone Passbook结合的小demo"
+date: 2015-01-29 12:44:49
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/01/ibeacon-passbook.jpg"><img alt="ibeacon passbook" class="alignnone size-medium wp-image-1151" height="203" src="http://www.ibeaconfans.com/wp-content/uploads/2015/01/ibeacon-passbook-300x203.jpg" width="300"/></a><br/>
+利用好苹果自带的passbook功能也可以玩儿起ibeacon,省去装app的麻烦。<br/>
+<embed align="middle" allowfullscreen="true" allowscriptaccess="always" height="400" quality="high" src="http://player.youku.com/player.php/sid/XODcyODkwMzIw/v.swf" type="application/x-shockwave-flash" width="480"></embed></p>
+
+
+<p>转载自：iBeacon粉丝网 » iBeacon与iphone Passbook结合的小demo</p>
