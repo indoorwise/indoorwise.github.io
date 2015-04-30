@@ -1,0 +1,12 @@
+---
+layout: post
+title: "独家视频：利用iBeacon的零售药店体验"
+date: 2015-04-30 16:45:02
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/03/ibeacon药店服务案例.jpg"><img alt="ibeacon药店服务案例" class="alignnone size-medium wp-image-1255" height="197" src="http://www.ibeaconfans.com/wp-content/uploads/2015/03/ibeacon药店服务案例-300x197.jpg" width="300"/></a><br/>
+这是一个在零售药店部署iBeacon的实景拍摄体验。包括进店，店员服务，结账等环节。<br/>
+<embed align="middle" allowfullscreen="true" allowscriptaccess="always" height="400" quality="high" src="http://player.youku.com/player.php/sid/XOTE1MTUxNTA4/v.swf" type="application/x-shockwave-flash" width="480"></embed></p>
+
+
+<p>转载自：iBeacon粉丝网 » 独家视频：利用iBeacon的零售药店体验</p>

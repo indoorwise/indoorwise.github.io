@@ -1,0 +1,14 @@
+---
+layout: post
+title: "超有爱的iBeacon应用，你的心被融化了吗？"
+date: 2015-04-30 16:44:43
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/03/ibeacon-sync-well.jpg"><img alt="ibeacon sync well" class="alignnone size-medium wp-image-1248" height="205" src="http://www.ibeaconfans.com/wp-content/uploads/2015/03/ibeacon-sync-well-300x205.jpg" width="300"/></a><br/>
+KDDI公司在3月16日发布了SYNC YELL大屏幕应用，让上京的年轻人和当地送别的人连接在一起，通过KDDI APP许下心愿，当走出车站，大屏幕设置的iBeacon就会感应到并送出温暖的祝福。</p>
+
+
+<p><embed align="middle" allowfullscreen="true" allowscriptaccess="always" height="400" quality="high" src="http://player.youku.com/player.php/sid/XOTEyOTYzNDIw/v.swf" type="application/x-shockwave-flash" width="480"></embed></p>
+
+
+<p>转载自：iBeacon粉丝网 » 超有爱的iBeacon应用，你的心被融化了吗？</p>

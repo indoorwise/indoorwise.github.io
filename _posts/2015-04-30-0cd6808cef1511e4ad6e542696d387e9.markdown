@@ -1,0 +1,11 @@
+---
+layout: post
+title: "简谈春晚微信摇一摇对iBeacon带来的后果！"
+date: 2015-04-30 16:44:01
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/02/Ibeacon摇一摇后果.jpg"><img alt="Ibeacon摇一摇后果" class="alignnone size-medium wp-image-1224" height="166" src="http://www.ibeaconfans.com/wp-content/uploads/2015/02/Ibeacon摇一摇后果-300x166.jpg" width="300"/></a><br/>
+春晚一夜之间近110亿次的摇动让全国人民都记住了一个动作：摇一下就可以出红包或优惠券！回到微信在一月份推出的摇一摇-周边功能，这次全民普及让广大消费者更容易和进一步接受了这个功能，导致的结果是消费者从心理上不但在电视机旁，在任何场所看到微信的标识和“摇一摇”功能就会及其“敏感”，触发消费者进行操作的冲动。这也是微信的O2O场景营销的野心，可以说这个野心正在变成现实，大量商家会跟进这一新型营销手段并结合自己的特点进行部署。前些天有一篇文章叫“iBeacon的热闹都是BAT的”，讲的很有道理，其主要原因是只有微信这类的超级APP可以培育出市场，但这次摇一摇的普及很可能把iBeacon的功能带入千万个生活服务类移动端APP，包括商家自己推出的APP, 借助“摇一摇”的东风让iBeacon场景营销迅速落地，而且突破微信的种种限制，把这一功能“玩儿”的更加丰富和出彩，这也可能是这类APP的有效使用突破口。</p>
+
+
+<p>转载自：iBeacon粉丝网 » 简谈春晚微信摇一摇对iBeacon带来的后果！</p>

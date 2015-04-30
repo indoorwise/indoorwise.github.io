@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Facebook Beacon FCC备案资料流出"
+date: 2015-04-30 16:43:19
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/02/iBeacon-FCC-Facebook5-480x317.jpg"><img alt="iBeacon FCC Facebook5-480x317" class="alignnone size-medium wp-image-1197" height="198" src="http://www.ibeaconfans.com/wp-content/uploads/2015/02/iBeacon-FCC-Facebook5-480x317-300x198.jpg" width="300"/></a><br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2015/02/iBeacon-FCC-1-Facebook-021-480x236.jpg"><img alt="iBeacon FCC 1 Facebook-021-480x236" class="alignnone size-medium wp-image-1198" height="147" src="http://www.ibeaconfans.com/wp-content/uploads/2015/02/iBeacon-FCC-1-Facebook-021-480x236-300x147.jpg" width="300"/></a><br/>
+前两天报导了Facebook正在推出自己的类iBeacon装置，具体的FCC认证资料已经流出，从资料显示其尺寸为长40mm，宽24毫米，高8.3毫米，资料还明确显示Facebook正在密集测试，预计近期开始对外发售。</p>
+
+
+<p>转载自：iBeacon粉丝网 » Facebook Beacon FCC备案资料流出</p>

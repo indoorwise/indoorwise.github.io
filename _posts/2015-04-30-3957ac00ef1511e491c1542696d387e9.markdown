@@ -1,0 +1,17 @@
+---
+layout: post
+title: "FamilyMart全家开始部署iBeacon"
+date: 2015-04-30 16:45:16
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/03/ibeacon全家.jpg"><img alt="ibeacon全家" class="alignnone size-medium wp-image-1265" height="200" src="http://www.ibeaconfans.com/wp-content/uploads/2015/03/ibeacon全家-300x200.jpg" width="300"/></a><br/>
+全家便利商店看好电子商务、第三方支付前景，宣布入股数字互动营销公司，有助全家强化虚实整合营运策略。全家董事长潘进丁表示，移动设备普及，使实体零售业纷纷大举投资、甚至并购电商相关企业，全家在电子商务、移动支付等领域也不会缺席，今年将积极布局，电商经济爆发力可期，虚实界线趋向模糊化，实体零售业不仅从基础建设、行动App及行销运用双管齐下抢攻新商业模式，将有助O2O线上线下的无缝接轨，激活零售业的虚实整合。</p>
+
+
+<p>全家今年将全面引进行动应用实验测试，寻找结合手机等主动行销模式，在限定店铺内埋设ibeacon，主动侦测已下载行销优惠App的入店顾客，提供专属优惠，在实体通路中找出与虚拟串联的营运模式。iBeacon适合吸引年轻人更快的融入全家的店面体验中来,基于iBeacon会设计出不同的店内应用场景。</p>
+
+
+<p>同时今年将积极整合店内感应式读卡机，以便可以读取收受各种支付工具，包括电子票证（如悠游卡）、信用卡及第三方支付。</p>
+
+
+<p>转载自：iBeacon粉丝网 » FamilyMart全家开始部署iBeacon</p>

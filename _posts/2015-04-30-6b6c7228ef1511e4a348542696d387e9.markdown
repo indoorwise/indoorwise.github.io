@@ -1,0 +1,20 @@
+---
+layout: post
+title: "阿里巴巴欲用iBeacon技术改变线下支付"
+date: 2015-04-30 16:46:40
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon阿里巴巴线下支付改革.jpg"><img alt="ibeacon阿里巴巴线下支付改革" class="alignnone size-medium wp-image-1315" height="199" src="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon阿里巴巴线下支付改革-300x199.jpg" width="300"/></a><br/>
+据了解，随着iBeacon技术应用的升温，阿里巴巴也推出了自己的AliBeacon现场计划。业内专家表示，如果该计划顺利推行，现有的支付方式将被改变，支付宝将彻底取代现金和信用卡。</p>
+
+
+<p>据悉，该计划基于BLE与Bluetooth Smart开放蓝牙广播信标标准。为线下商家能够快速的连接现场或者与附近的消费者并且提供丰富、精准的服务与互动提供机会。中间的媒介APP就是支付宝，并打造蓝牙开发计划。阿里计划通过AliBeacon结合三类人：ISV服务商、商户以及硬件供应商。支付宝AliBeacon计划将更加侧重支付功能，尤其是在线下收款转账的功能上，AliBeacon现场计划将支付宝变得更加“智能化”。商户通过绑定支付宝收款账号到信标店消费，顾客无需扫码，打开钱包通过智慧发现商户收款账号，输入金额，直接进行转账付款操作。消费者无需离开座位即可完成。</p>
+
+
+<p>这反映了阿里一贯的战略：改变现有的支付方式，从现金到PC端支付宝消费，再到移动端支付宝APP消费，如今，再把线上交易转到线下，彻底取代现金和信用卡。AliBeacon将这个闭环更加便捷地连起来了。可以想象到的一个画面是，在类似奥特莱斯nike店、周末的Carrefour以及弯弯曲曲排队的优衣库专柜前，消费者再不用排队缴费了，扫描到蓝牙信号就可以用支付宝付账。</p>
+
+
+<p>这个特点也服务于阿里未来在线下商场综合体布局的战略。目前类似超大型综合体布局复杂的问题一直得不到很好解决，而AliBeacon让用户开着支付宝找店铺，消费后再用支付宝结账。</p>
+
+
+<p>转载自：iBeacon粉丝网 » 阿里巴巴欲用iBeacon技术改变线下支付</p>

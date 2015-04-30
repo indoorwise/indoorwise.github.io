@@ -1,0 +1,14 @@
+---
+layout: post
+title: "百万安装！韩国iBeacon大爆发"
+date: 2015-04-30 16:45:38
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/03/ibeacon韩国安装爆发.jpg"><img alt="ibeacon韩国安装爆发" class="alignnone size-medium wp-image-1274" height="180" src="http://www.ibeaconfans.com/wp-content/uploads/2015/03/ibeacon韩国安装爆发-300x180.jpg" width="300"/></a><br/>
+韩国计划至少今年部署30万个beacon,累计部署量将达百万，部署的地方包括零售场所，公司，大学，医院，金融场所等等，各种各样基于iBeacon的应用将呼之欲出。韩国电信公司是这次部署的领导者，SK电信和KT即将大面积部署Incheon Munhak体育馆和Suwon KT wiz公园， SK Planet公司在去年六月以前已经部署了5万个，他们将今年将在主要的便利店和商业街区继续安装10万个，并计划积极推广这一应用技术，设立了独立的品牌“SYRUP”，而他们的竞争对手乐天集团和Shinsegye也在自己的百货公司，超市，免税店积极部署了Beacon装置。</p>
+
+
+<p>SK planet相关负责人表示：之所以iBeacon受到如此重视与欢迎是因为它的特性及性价比优于其它技术如NFC,而且基于此技术可以灵活开发各种应用，他们正在向各个合作场所推出签到和优惠券发放应用，随着数据积累，年底将推出个性化推送服务。支付将是Beacon的终极方案，但安全目前尚存隐患，但各大发卡公司如BC卡，乐天卡，woori卡等都在积极研发相关技术和应用，相信以iBeacon为基础的O2O市场会蓬勃发展。</p>
+
+
+<p>转载自：iBeacon粉丝网 » 百万安装！韩国iBeacon大爆发</p>

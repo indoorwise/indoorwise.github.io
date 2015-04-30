@@ -1,0 +1,14 @@
+---
+layout: post
+title: "独家视频：第一款嵌入iBeacon感应的打印机"
+date: 2015-04-30 16:43:06
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/02/iBeacon感应打印机.jpg"><img alt="iBeacon感应打印机" class="alignnone size-medium wp-image-1193" height="183" src="http://www.ibeaconfans.com/wp-content/uploads/2015/02/iBeacon感应打印机-300x183.jpg" width="300"/></a><br/>
+用手机和pad感应进行身份识别才能打印，这个技术会适合于很多应用场景。影片是鸟文的，估计大家听不懂，意思看懂就成啊：）</p>
+
+
+<p><embed align="middle" allowfullscreen="true" allowscriptaccess="always" height="400" quality="high" src="http://player.youku.com/player.php/sid/XODg2MjEyMTM2/v.swf" type="application/x-shockwave-flash" width="480"></embed></p>
+
+
+<p>转载自：iBeacon粉丝网 » 独家视频：第一款嵌入iBeacon感应的打印机</p>

@@ -1,0 +1,28 @@
+---
+layout: post
+title: "iBeacon也有爱，帮助视障人士领路"
+date: 2015-04-30 16:44:26
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/03/ibeacon视力导航.jpg"><img alt="ibeacon视力导航" class="alignnone size-medium wp-image-1240" height="168" src="http://www.ibeaconfans.com/wp-content/uploads/2015/03/ibeacon视力导航-300x168.jpg" width="300"/></a><br/>
+让视障人士独立自主地搭乘一次地铁几乎是天方夜谭，不过在技术的帮助下它很可能成为现实。</p>
+
+
+<p>据 BBC 的报道，几位来自英国伦敦皇家青年学院的成员联手数码产品设计师，正在测试一种为视障人士导航用的系统，这种系统能够有效地在地下使用。</p>
+
+
+<p>系统所使用的关键技术是蓝牙 beacons，蓝牙 beacons 非常类似于苹果 iBeacons 技术，这种技术的原理是利用蓝牙低功耗，当 iPhone 靠近公共区域部署的 iBeacon 芯片后，会自动接受该芯片传输的信息。三个以上的蓝牙 Beacons 就能实现精准的三角定位，相对于依赖网络的定位服务和依赖开阔环境的 GPS，蓝牙 Beacons 非常适用于室内定位。</p>
+
+
+<p>也就是说，当一位视障人士走进地铁站，地铁站内部署的蓝牙 beacons 就能确定他们的位置，并向他们的智能手机传输导航信号，导航的信息可以通过骨传导耳机传送给视障人士。当接近自动扶梯或检票闸口，系统会自动提醒用户。<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2015/03/ibeacon视力导航1.jpg"><img alt="ibeacon视力导航1" class="alignnone size-medium wp-image-1241" height="175" src="http://www.ibeaconfans.com/wp-content/uploads/2015/03/ibeacon视力导航1-300x175.jpg" width="300"/></a><br/>
+作为 RLSB 的志愿者，Lauren Richardson 是一位视觉障碍人士，她每天都要乘坐公共交通从 Berkshire 到伦敦工作，对于她而言，每次出行对她而言都是一次冒险。</p>
+
+
+<p>“这项技术给了我极大的信息，它给了我独立的机会，让我可以独立自主地离开家门，而无需等待别人的援助。”Richardson 说。</p>
+
+
+<p>来自wired</p>
+
+
+<p>转载自：iBeacon粉丝网 » iBeacon也有爱，帮助视障人士领路</p>

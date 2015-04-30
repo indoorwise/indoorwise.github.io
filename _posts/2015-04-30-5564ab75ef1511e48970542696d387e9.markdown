@@ -1,0 +1,19 @@
+---
+layout: post
+title: "丝芙兰微信摇一摇iBeacon营销案例"
+date: 2015-04-30 16:46:03
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon-sephero1.jpg"><img alt="ibeacon sephero1" class="alignnone size-medium wp-image-1286" height="300" src="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon-sephero1-225x300.jpg" width="225"/></a>丝芙兰借助了“微信摇一摇.周边”接口开放契机和iBeacon这一新科技手段先行在上海试水，于三八妇女节之际，推出“摇一摇，美礼大放送”活动，让“摇”变得更加有趣和具有针对性，这无疑是国际时尚品牌的一次全新营销探索。<br/>
+消费者无需进店，只要开启手机的蓝牙功能，并打开微信“摇一摇”，即可触发IBeacon蓝牙传感器，点击即可获取丝芙兰门店最新的优惠活动信息页面，长按页面上的二维码直接关注丝芙兰官方微信账号可获得30元优惠券。这一举措可以实现线下线上双重引流的效果——引导更多消费者进店消费和关注微信账号.<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon-sephero.jpg"><img alt="ibeacon sephero" class="alignnone size-medium wp-image-1284" height="225" src="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon-sephero-300x225.jpg" width="300"/></a></p>
+
+
+<p><strong>营销活动启示：</strong><br/>
+1.技术创新完善线下应用场景，给对应场景提供解决方案。丝芙兰这次利用微信“摇一摇”和iBeacon技术，可以算得上是时尚品牌双线互动的一次新尝试。iBeacon信标通过对周边用户进行感应和互动，可以实现大数据、移动设备、社交媒体、传感器和定位系统的联接，这样就构建了一个“三八妇女节摇优惠”的特定场景。抓住了妇女节这个“意义”上的场景，借助iBeacon的“技术”对接，实现了优惠券、优惠信息等的摇一摇触动。并且可以通过摇到的优惠券实现线下门店消费，这一关联互动为更多国际化大品牌试水O2O带去更多信心。</p>
+
+
+<p>2.如何转化为流量、销量是一个重要研究课题。场景构建与运营转换能力，考验的是技术+意义层面场景的综合应用。在技​​术层面，丝芙兰把iBeacon技术推广普及到线下，通过微信摇一摇让用户对周边环境产生感知；在意义层面，除了对用户需求的准确把握，丝芙兰还通过门店易拉宝、桌卡、 BA引导等方式，实现对生态的构建和引导，给丝芙兰带来更多有效的线上目标粉丝，也给线下门店带来了流量。</p>
+
+
+<p>转载自：iBeacon粉丝网 » 丝芙兰微信摇一摇iBeacon营销案例</p>

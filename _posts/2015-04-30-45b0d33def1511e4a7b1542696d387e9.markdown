@@ -1,0 +1,14 @@
+---
+layout: post
+title: "国际软件厂商开始融入iBeacon"
+date: 2015-04-30 16:45:37
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/03/ibeacon-adobe.jpg"><img alt="ibeacon adobe" class="alignnone size-full wp-image-1271" height="197" src="http://www.ibeaconfans.com/wp-content/uploads/2015/03/ibeacon-adobe.jpg" width="300"/></a><br/>
+随着iBeacon越来越被普及和接受，国际软件厂商也开始加入此项技术以丰富自己的方案。</p>
+
+
+<p>Adobe大中华区董事总经理黄耀辉对物联网是业界公认的发展趋势，背后带来的是越来越大的数据量。这其中包括移动的数据、运动的数据、位置的数据等等。如何有效地采集和利用这些数据为自己的业务服务，成为每个企业面临的问题，尤其零售企业更是面临挑战。Adobe在数字营销领域，通过多年来积累的经验，已经可以为客户提供有效的分析及挖掘服务。客户在使用了Adobe的服务后，可以更加有针对性地向其用户群推送其感兴趣的内容。随着苹果iBeacon及蓝牙技术联盟Beacon技术的推广，基于蓝牙及其它室内定位技术的位置营销已经引起很多品牌的重视。从国内市场来讲，银泰、微信等都已经开始展开基于iBeacon应用场景的信息推送测试。Adobe将整合加入iBeacon类技术，在其数字营销工具能够通过更多物联网及智能硬件终端将服务提供给客户，以便让他们对其用户的需求有更精准的把握。</p>
+
+
+<p>转载自：iBeacon粉丝网 » 国际软件厂商开始融入iBeacon</p>

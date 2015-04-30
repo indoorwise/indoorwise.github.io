@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Facebook也来玩儿iBeacon了！"
+date: 2015-04-30 16:43:03
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/02/iBeacon-Facebook-Bluetooth-Beacon.jpg"><img alt="iBeacon Facebook-Bluetooth-Beacon" class="alignnone size-medium wp-image-1190" height="218" src="http://www.ibeaconfans.com/wp-content/uploads/2015/02/iBeacon-Facebook-Bluetooth-Beacon-300x218.jpg" width="300"/></a><br/>
+上周末就有消息称Facebook将要部署Beacon计划，通过蓝牙Beacon系统让客户手机APP直接基于位置收到广告促销信息。这个系统将和三星与苹果的iBeacon类似，主要应用于零售业客户。Fecebook同时会推出自己的Beacon硬件，这个硬件已经下线并在纽约的8个地方安装测试，包括Strand书店，Meridien酒店等。目前仅支持IOS版的Facebook APP，但android版已经在研发中。Facebook表示为了不烦扰客户，提供了Opt-in功能，允许客户自由开关是否接受相关位置广告。</p>
+
+
+<p>和微信一样，全世界的社交巨头们对线下实体店都在“垂涎欲滴”，任何的新技术都会被尝试采纳，而且推出的都是全套硬件加软件方案，效果拭目以待。</p>
+
+
+<p>转载自：iBeacon粉丝网 » Facebook也来玩儿iBeacon了！</p>

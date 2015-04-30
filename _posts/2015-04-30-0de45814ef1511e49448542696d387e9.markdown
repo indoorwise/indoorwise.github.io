@@ -1,0 +1,20 @@
+---
+layout: post
+title: "挑战iBeacon,Wi-Fi Aware于2015年底登场"
+date: 2015-04-30 16:44:03
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/03/ibeacon-wifi-aware.jpg"><img alt="ibeacon wifi aware" class="alignnone size-medium wp-image-1227" height="184" src="http://www.ibeaconfans.com/wp-content/uploads/2015/03/ibeacon-wifi-aware-300x184.jpg" width="300"/></a><br/>
+Wi-Fi联盟预计在2015年底推行Wi-Fi Aware技术，此技术潜在应用情境与LTE Direct、iBeacon高度重叠，但技术表现未明显胜出，且日后的技术精进也不易超越。因此DIGITIMES Research认为，Wi-Fi联盟若不能在认证、产业採行意愿等执行力层面有更多著力，则Wi-Fi Aware的成功性将不乐观。</p>
+
+
+<p>Wi-Fi Aware是以Wi-Fi Direct为基础所新发展的软体技术，允许Wi-Fi装置探索附近的其他Wi-Fi装置，进而分享照片或共同参与游戏。或由Wi-Fi装置持续发送广播资讯，资讯内容为路线导览、展品说明等，附近的Wi-Fi装置接收到讯息后，将对所处位置、路线或展品有更多掌握。</p>
+
+
+<p>Wi-Fi Aware虽能实现邻近社交、导引等应用，但多数技术特性上无法超越LTE Direct与iBeacon，例如在装置与讯息探索速度上，Wi-Fi Aware不如LTE Direct，在邻近服务的传输距离与覆盖范畴面积上也不如LTE Direct。</p>
+
+
+<p>Wi-Fi Aware在导引的定位精细度上也不如Bluetooth Low Energy技术的iBeacon，且较为耗电，不适合以电池方式运作，因此较适合已有牵布电力线，以及较大距离与范畴的导引。</p>
+
+
+<p>转载自：iBeacon粉丝网 » 挑战iBeacon,Wi-Fi Aware于2015年底登场</p>

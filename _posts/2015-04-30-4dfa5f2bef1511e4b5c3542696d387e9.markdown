@@ -1,0 +1,14 @@
+---
+layout: post
+title: "看看日本出租车怎么“玩儿”iBeacon"
+date: 2015-04-30 16:45:50
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon日本出租车.jpg"><img alt="ibeacon日本出租车" class="alignnone size-medium wp-image-1281" height="193" src="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon日本出租车-300x193.jpg" width="300"/></a><br/>
+日本交通集团为了鼓励乘车人下载使用日本交通出租车调车APP（目的是了解出租车的使用情况，优化调度结构），将在持有的1557台出租车上安装iBeacon装置。当乘客打车时打开APP，系统开始记录乘车时间，同时交通集团合作的广告营销公司会提供有意思的广告互动视频，如果乘客在出租车上点击观看，综合乘车时间和观看视频数会在下车时给予优惠券。如果这次试验运行成功，交通集团会应用在其所有出租车上。</p>
+
+
+<p>这是个几方共赢的方案，国内的滴滴打车什么时候也考虑下：）</p>
+
+
+<p>转载自：iBeacon粉丝网 » 看看日本出租车怎么“玩儿”iBeacon</p>

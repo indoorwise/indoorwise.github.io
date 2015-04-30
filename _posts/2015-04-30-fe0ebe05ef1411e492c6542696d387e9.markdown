@@ -1,0 +1,12 @@
+---
+layout: post
+title: "苹果室内技术来了，专利显示正开发基于iBeacon等无线信号位置分析技术"
+date: 2015-04-30 16:43:36
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/02/ibeacon-indoor-1.jpg"><img alt="ibeacon indoor 1" class="alignnone size-medium wp-image-1209" height="186" src="http://www.ibeaconfans.com/wp-content/uploads/2015/02/ibeacon-indoor-1-300x186.jpg" width="300"/></a><br/>
+最新透露的专利显示苹果正在开发通过iBeacon，wifi等无线信号监控移动设备的室内定位技术。单个移动设备可以收集并传输地址，时间，速度等数据给云端服务器，同时服务器可以并发收集多个上述移动终端信息，并通过算法计算得出平均停留时间，停留地点等结果，并把结果传输回每个相关移动终端，从而触发提醒，日历等服务，向用户建议合适的时间和地点。这里说的比较抽象，小编举两个例子，比如某人要去逛某商场，这时候可以通过苹果这个服务实时察看要去的商场人流和大概停留时间，给予建议何时去比较好。再比如你可以在手机上设定“今天什么时候合适去家乐福？”，这套系统经过在家乐福收集的手机位置数据分析后，在人流最合适的时间会直接弹屏告诉你该出发了。这是一个开拓性技术，用户可以预测室内的停留时间，排队时间，人流情况等关键位置相关信息。<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2015/02/ibeacon-indoor-2.png"><img alt="ibeacon indoor 2" class="alignnone size-medium wp-image-1210" height="300" src="http://www.ibeaconfans.com/wp-content/uploads/2015/02/ibeacon-indoor-2-230x300.png" width="230"/></a></p>
+
+
+<p>转载自：iBeacon粉丝网 » 苹果室内技术来了，专利显示正开发基于iBeacon等无线信号位置分析技术</p>

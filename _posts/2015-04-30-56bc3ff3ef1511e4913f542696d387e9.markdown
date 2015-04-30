@@ -1,0 +1,56 @@
+---
+layout: post
+title: "微信摇一摇周边商家平台正式上线"
+date: 2015-04-30 16:46:05
+categories: indoorwise ibeacon
+---
+<p>微信摇一摇周边商家入驻平台（https://zb.weixin.qq.com/）正式上线啦，即日起，商家可申请入驻。同时，作为微信商业体系整体解决方案的一员，其申请入口也同步在微信公众平台的商家后台发布。</p>
+
+
+<p>摇一摇周边是微信在线下的全新能力，是微信基于低功耗蓝牙技术的O2O入口级应用。你可能已经听说过众多知名品牌已接入了微信摇一摇周边，结合自身丰富的营销活动，获得了出众的效果；或者也亲身体验过在一些百货商场、餐馆、公交地铁、旅游景点、博物馆、游乐场、发布会、展会活动上摇出各种惊喜。是不是也想尝试给自己的门店或活动上带来一些新意？没问题！此次改版最大的亮点在于接入流程简单易操作，再小的商家都可快速自助接入，并且还能自动配置关注公众号。从此，大小商家都可通过在线下铺设摇周边设备，接入摇一摇周边，近距离连接用户啦！</p>
+
+
+<p>听产品经理说，这次上线要给大家送福利！我们将联合数家业内设备厂商给一部分率先申请入驻的商家免费送摇一摇周边设备。具体时间，请大家届时密切关注商家入驻平台公告，或留意小助手的消息哦。为了让商家们能抢到福利，小助手带你熟悉下怎么申请入驻吧。 </p>
+
+
+<p><strong>简单三步完成申请入驻</strong></p>
+
+
+<p><strong>申请前的准备</strong></p>
+
+
+<p>如果想要在门店快速让顾客摇出公众号、优惠券或者店铺活动信息，你需要准备什么？很简单：认证的微信公众号就可以。</p>
+
+
+<p><strong>入驻流程</strong></p>
+
+
+<p>商户可从微信公众平台，或直接访问摇一摇周边商家入驻平台（https://zb.weixin.qq.com/）申请接入。以通过微信公众平台申请的流程为例：<br/>
+<strong>1.找到入口：</strong><br/>
+登陆微信公众平台（mp.weixin.qq.com）进入管理界面，点击界面左侧“功能 -&gt; 增加功能插件”，在“插件库”中选择“微信摇一摇周边”插件<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon微信摇一摇周边.jpg"><img alt="ibeacon微信摇一摇周边" class="alignnone size-medium wp-image-1292" height="180" src="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon微信摇一摇周边-300x180.jpg" width="300"/></a></p>
+
+
+<p>点击后，即可打开摇一摇周边商户管理后台。<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon微信摇一摇周边1.jpg"><img alt="ibeacon微信摇一摇周边1" class="alignnone size-medium wp-image-1293" height="171" src="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon微信摇一摇周边1-300x171.jpg" width="300"/></a><br/>
+<strong>2.申请入驻：</strong><br/>
+点击“立即接入”，进入申请条件和流程说明页<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon微信摇一摇周边2.jpg"><img alt="ibeacon微信摇一摇周边2" class="alignnone size-medium wp-image-1294" height="156" src="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon微信摇一摇周边2-300x156.jpg" width="300"/></a><br/>
+点击“授权登录摇一摇周边” ，进行公众号授权登录<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon微信摇一摇周边3.jpg"><img alt="ibeacon微信摇一摇周边3" class="alignnone size-medium wp-image-1295" height="179" src="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon微信摇一摇周边3-300x179.jpg" width="300"/></a><br/>
+ 按照流程填写基本资料后，即完成申请入驻。<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon微信摇一摇周边4.jpg"><img alt="ibeacon微信摇一摇周边4" class="alignnone size-medium wp-image-1296" height="300" src="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon微信摇一摇周边4-297x300.jpg" width="297"/></a><br/>
+<strong>3.正式启用：</strong><br/>
+入驻申请审核大约需要三个工作日，审核通过后，再次登录https://zb.weixin.qq.com/，即可进入管理后台。按照首页的配置流程指引，即可成功启用微信摇一摇周边。<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon微信摇一摇周边5.jpg"><img alt="ibeacon微信摇一摇周边5" class="alignnone size-medium wp-image-1297" height="161" src="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon微信摇一摇周边5-300x161.jpg" width="300"/></a><br/>
+亲身按指引操作，发现连小助手这样的文科生都可以在5分钟内完成配置，真是太方便了。</p>
+
+
+<p>完成设备和页面配置后，就可以在门店使用啦。别忘了告知顾客打开蓝牙再来摇哦！</p>
+
+
+<p>另外，此次上线，摇一摇周边还同步开放了api接口，为广大的开发者和商家提供了更多高阶能力。<br/>
+查看接口详情请浏览微信开发者文档网站（http://mp.weixin.qq.com/wiki），并在左边导航条中选择“摇一摇周边”。</p>
+
+
+<p>转载自：iBeacon粉丝网 » 微信摇一摇周边商家平台正式上线</p>

@@ -1,0 +1,29 @@
+---
+layout: post
+title: "饮品店iBeacon微信摇一摇案例，附效果数据统计"
+date: 2015-04-30 16:46:16
+categories: indoorwise ibeacon
+---
+<p>在申请通过微信摇一摇周边功能后，饮品店”阿叔熬奶茶“在三八妇女节推出主题为”女人我最大，福利摇出来“的活动，此活动完全基于微信摇一摇周边功能，活动海报见下图：<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon饮品店微信摇一摇案例.jpg"><img alt="ibeacon饮品店微信摇一摇案例" class="alignnone size-medium wp-image-1301" height="182" src="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon饮品店微信摇一摇案例-300x182.jpg" width="300"/></a><br/>
+用户打开蓝牙，进入微信摇一摇，出现”周边“标签后，摇一摇手机，用户使用场景截图如下：<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon饮品店微信摇一摇案例1.jpg"><img alt="ibeacon饮品店微信摇一摇案例1" class="alignnone size-medium wp-image-1300" height="300" src="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon饮品店微信摇一摇案例1-169x300.jpg" width="169"/></a><br/>
+点击标题进入H5活动详情页面<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon饮品店微信摇一摇案例2.jpg"><img alt="ibeacon饮品店微信摇一摇案例2" class="alignnone size-medium wp-image-1303" height="300" src="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon饮品店微信摇一摇案例2-169x300.jpg" width="169"/></a><br/>
+店员扫一扫验证通过后，用户手机的H5页面自动跳转到验证成功页<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon饮品店微信摇一摇案例3.jpg"><img alt="ibeacon饮品店微信摇一摇案例3" class="alignnone size-medium wp-image-1302" height="300" src="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon饮品店微信摇一摇案例3-169x300.jpg" width="169"/></a><br/>
+两个门店的摇一摇数据<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon饮品店微信摇一摇案例4.jpg"><img alt="ibeacon饮品店微信摇一摇案例4" class="alignnone size-medium wp-image-1304" height="58" src="http://www.ibeaconfans.com/wp-content/uploads/2015/04/ibeacon饮品店微信摇一摇案例4-300x58.jpg" width="300"/></a><br/>
+可以看出来，摇出的用户，只要点击了就会使用，另外三成用户未点击的用户可能是男性用户，看到是女性专享也就不愿点击活动页面了。<br/>
+微信摇一摇周边功能基于苹果ibeacon的蓝牙协议，一个ibeacon设备可以向其半径50米范围内不断广播自己的ID，因为蓝牙的低功耗性，一节5号干电池即可维持一年以上的工作时间，当用户手机打开蓝牙，接收到了Beacon的ID值后，会做相应的动作，它可以精确定位到误差在1~2米范围内。基于此技术，微信开发出了摇一摇周边功能作为线下一个流量入口。<br/>
+用户在申请摇一摇周边功能后，只需要再购买一个ibeacon设备，市场价在50~100元不等，长度不过一张名片，重量不过一个鸡蛋。</p>
+
+
+<p>微信靠摇一摇发展壮大，摇一摇的动作可以带来比扫一扫更多的期待感，也增加了用户体验的趣味性，如果把这个小装置放到商场的出入口，电梯和扶梯的出入口，用户摇一摇，就可以摇出附近商家的优惠券，尽可能多的地将用户引流到商家。<br/>
+也可以想像，在你孩子的鞋子上装一个这样的设备，外出游玩时，如果你的孩子离你超过X米远后，你的手机就自动报警，或者当你开车进入一个陌生地停车场后，利用遍布停车场的ibeacon设备，你的手机可以自动为你寻找最近的一个空位，或者找到你的车停在哪里，很酷吧。</p>
+
+
+<p>感谢O2O观察的杨昭投稿 weibo.com/ryangyang</p>
+
+
+<p>转载自：iBeacon粉丝网 » 饮品店iBeacon微信摇一摇案例，附效果数据统计</p>

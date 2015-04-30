@@ -1,0 +1,19 @@
+---
+layout: post
+title: "荷兰百货购物龙头开始规模部署iBeacon"
+date: 2015-04-30 16:43:52
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/02/ibeacon-荷兰商场.jpg"><img alt="ibeacon 荷兰商场" class="alignnone size-full wp-image-1220" height="243" src="http://www.ibeaconfans.com/wp-content/uploads/2015/02/ibeacon-荷兰商场.jpg" width="300"/></a><br/>
+荷兰最著名商场购物中心运营方Bijenkorf在O2O布局中加入iBeacon元素，作为试验首先在其鹿特丹分店的收银柜台附近安装了140个iBeacons感应器，以进行客户感应与识别，其他分店预计明年将陆续导入iBeacons会员专属计画，未来在消费者同意开放资料的前提下，Bijenkorf还可以提供更多个人化服务!</p>
+
+
+<p>安装iBeacons只是Bijenkorf启用「会员专属」服务计画中的一个环节，让已经沿用多年的会员卡制度进一步发展。经由iBeacons感应器与iBeacons App的搭配使用，当消费者携带装有iBeacons App的行动装置时，收银柜檯的工作人员就能在消费者抵达一定范围内感应到。如果消费者同意开放资料，柜檯的客户管理系统就甚至还可以看到消费者的基本资料，如Email等。这个做法一方面可以引导工作人员完成iBeacons会员转换计划，并且缩短会员资料登录所需时间，另方面也可提供消费者个人化的服务与产品展示。<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2015/02/ibeacon-荷兰商场1.jpg"><img alt="ibeacon 荷兰商场1" class="alignnone size-full wp-image-1221" height="235" src="http://www.ibeaconfans.com/wp-content/uploads/2015/02/ibeacon-荷兰商场1.jpg" width="126"/></a><br/>
+Bijenkorf透过各种会员专属优惠，吸引消费者转换为iBeacons计画的会员。成为会员后，公司可建立会员的消费习惯资料库，善用大资料分析，这百货公司将可以更进一步了解客户的购物习惯，依照不同客户的需求，提供适当的服务与对味的产品。未来， Bijenkorf-app 将成为百货公司与会员间的个人化沟通平台。</p>
+
+
+<p>目前Bijenkorf拥有14家实体店面，员工人数约4千人，年来客数约3千万人次，官方网站流量每年有5千万人次左右。不重複来客数总共有350万人，约占荷兰人口总数1,680万人两成左右。实体店面成本虽高，但也有实体展示与人员解说的温馨购物体验。如何善用实体店面优势，以延伸与扩大优势到虚拟网络的销售业务，是这家百年老店的O2O新课题，也关系著是否能在网路新商务世界维持市场龙头地位的重要策略与佈局!</p>
+
+
+<p>转载自：iBeacon粉丝网 » 荷兰百货购物龙头开始规模部署iBeacon</p>

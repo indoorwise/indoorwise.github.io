@@ -1,0 +1,12 @@
+---
+layout: post
+title: "美国SXSW部署1000+ iBeacon迎接展会到来"
+date: 2015-04-30 16:44:15
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/03/ibeacon-sxsw_recommended.png"><img alt="ibeacon sxsw_recommended" class="alignnone size-medium wp-image-1230" height="300" src="http://www.ibeaconfans.com/wp-content/uploads/2015/03/ibeacon-sxsw_recommended-146x300.png" width="146"/></a><br/>
+美国著名的SXSW（每年三月在Austin举办的展会，包括音乐，电影，互动技术的最新技术展示会）将部署1000+ iBeacon硬件，所有与会人员安装SXSW的APP即可根据位置触发展会信息并参与互动，举办方表示将颠覆原有的参会体验，让互动这个词发挥的淋漓尽致。 主要功能包括Around me发现附近展位和场所，Recommended推荐会展演讲和近距离感应社交功能。<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2015/03/iBeacon-sxsw_aroundme.png"><img alt="iBeacon sxsw_aroundme" class="alignnone size-medium wp-image-1231" height="300" src="http://www.ibeaconfans.com/wp-content/uploads/2015/03/iBeacon-sxsw_aroundme-145x300.png" width="145"/></a></p>
+
+
+<p>转载自：iBeacon粉丝网 » 美国SXSW部署1000+ iBeacon迎接展会到来</p>
