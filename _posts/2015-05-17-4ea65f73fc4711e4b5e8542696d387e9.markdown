@@ -1,0 +1,158 @@
+---
+layout: post
+title: "iBeacon国内企业介绍之：声物科技（sooBeacon）"
+date: 2015-05-17 11:46:32
+categories: indoorwise ibeacon
+---
+<div class="asb asb-post asb-post-01"></div>
+ 
+<p><img alt="" class=" aligncenter" height="190" src="http://www.lagou.com/upload/logo/553776dc1ccc43e0b8201e580babc067.gif" title="点击查看源网页" width="190"/></p>
+
+
+<p><span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%a3%b0%e7%89%a9%e7%a7%91%e6%8a%80" target="_blank" title="查看关于 声物科技 的文章">声物科技</a></span>成立于2012年6月，是一家致力于<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%ba%92%e8%81%94%e7%bd%91%e5%88%9b%e6%96%b0%e5%b9%b3%e5%8f%b0" target="_blank" title="查看关于 互联网创新平台 的文章">互联网创新平台</a></span>及<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%99%ba%e8%83%bd%e7%a1%ac%e4%bb%b6" target="_blank" title="查看关于 智能硬件 的文章">智能硬件</a></span>自主研发的新型科技企业，由<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%8c%97%e4%ba%ac%e5%a3%b0%e7%89%a9%e4%bf%a1%e6%81%af%e7%a7%91%e6%8a%80%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8" target="_blank" title="查看关于 北京声物信息科技有限公司 的文章">北京声物信息科技有限公司</a></span>、<span style="color: #00ccff;"> <a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%a3%b0%e7%89%a9%e9%a6%99%e6%b8%af%e5%9b%bd%e9%99%85%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8" target="_blank" title="查看关于 声物(香港)国际有限公司 的文章">声物(香港)国际有限公司</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%b7%b1%e5%9c%b3%e5%a3%b0%e7%89%a9%e4%ba%92%e5%8a%a8%e7%a7%91%e6%8a%80%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8" target="_blank" title="查看关于 深圳声物互动科技有限公司 的文章">深圳声物互动科技有限公司</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%b7%b1%e5%9c%b3%e5%a3%b0%e7%89%a9%e8%a7%86%e8%ae%af%e6%8a%80%e6%9c%af%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8" target="_blank" title="查看关于 深圳声物视讯技术有限公司 的文章">深圳声物视讯技术有限公司</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%b7%b1%e5%9c%b3%e5%a3%b0%e7%89%a9%e9%9f%b3%e5%93%8d%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8" target="_blank" title="查看关于 深圳声物音响有限公司 的文章">深圳声物音响有限公司</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%8c%97%e4%ba%ac%e6%90%9c%e6%b2%83%e4%bf%a1%e6%81%af%e6%8a%80%e6%9c%af%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8" target="_blank" title="查看关于 北京搜沃信息技术有限公司 的文章">北京搜沃信息技术有限公司</a></span>组成。</p>
+
+
+<p>声物科技围绕<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%ba%91%e5%8a%a0%e7%ab%af%e6%a0%b8%e5%bf%83%e6%88%98%e7%95%a5" target="_blank" title="查看关于 云加端核心战略 的文章">云加端核心战略</a></span>，深度布局<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%85%89%e5%ad%a6" target="_blank" title="查看关于 光学 的文章">光学</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%a3%b0%e5%ad%a6" target="_blank" title="查看关于 声学 的文章">声学</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%8d%8a%e5%af%bc%e4%bd%93" target="_blank" title="查看关于 半导体 的文章">半导体</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e7%89%a9%e8%81%94%e7%bd%91" target="_blank" title="查看关于 物联网 的文章">物联网</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%b5%8c%e5%85%a5%e5%bc%8f%e7%b3%bb%e7%bb%9f" target="_blank" title="查看关于 嵌入式系统 的文章">嵌入式系统</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e8%8a%af%e7%89%87%e7%ae%97%e6%b3%95" target="_blank" title="查看关于 芯片算法 的文章">芯片算法</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e7%a7%bb%e5%8a%a8%e4%ba%92%e8%81%94%e7%bd%91" target="_blank" title="查看关于 移动互联网 的文章">移动互联网</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%a4%a7%e6%95%b0%e6%8d%ae" target="_blank" title="查看关于 大数据 的文章">大数据</a></span>，<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%ba%91%e8%ae%a1%e7%ae%97" target="_blank" title="查看关于 云计算 的文章">云计算</a></span>、 <span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%ba%ba%e6%9c%ba%e4%ba%92%e5%8a%a8" target="_blank" title="查看关于 人机互动 的文章">人机互动</a></span>等方向，大力投入研发力量，分别组建”<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e7%a7%bb%e5%8a%a8%e4%ba%92%e8%81%94%e7%bd%91%e5%88%9b%e6%96%b0%e4%b8%ad%e5%bf%83" target="_blank" title="查看关于 移动互联网创新中心 的文章">移动互联网创新中心</a></span>“、”<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%ba%91%e8%ae%a1%e7%ae%97%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%8a%80%e6%9c%af%e4%b8%ad%e5%bf%83" target="_blank" title="查看关于 云计算大数据技术中心 的文章">云计算大数据技术中心</a></span>“、”<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%b7%a5%e4%b8%9a%e8%ae%be%e8%ae%a1%e5%88%9b%e6%84%8f%e4%b8%ad%e5%bf%83" target="_blank" title="查看关于 工业设计创意中心 的文章">工业设计创意中心</a></span>“、”<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e7%89%a9%e8%81%94%e7%bd%91%e6%99%ba%e8%83%bd%e7%a1%ac%e4%bb%b6%e7%a0%94%e5%8f%91%e4%b8%ad%e5%bf%83" target="_blank" title="查看关于 物联网智能硬件研发中心 的文章">物联网智能硬件研发中心</a></span>“、”<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%85%89%e5%ad%a6%e5%8d%8a%e5%af%bc%e4%bd%93%e7%a0%94%e7%a9%b6%e4%b8%ad%e5%bf%83" target="_blank" title="查看关于 光学半导体研究中心 的文章">光学半导体研究中心</a></span>“、”<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%a3%b0%e5%ad%a6%e5%b7%a5%e7%a8%8b%e6%8a%80%e6%9c%af%e7%a0%94%e5%8f%91%e4%b8%ad%e5%bf%83" target="_blank" title="查看关于 声学工程技术研发中心 的文章">声学工程技术研发中心</a></span>“；科研团队分工明确、专业专注、相互协同打造出极具有自主知识产权的复合型技术创新体系。</p>
+
+
+<p>声物科技以“<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%88%91%e4%bb%ac%e4%bc%a0%e9%80%92%e5%b9%b8%e7%a6%8f%e6%84%9f" target="_blank" title="查看关于 我们传递幸福感 的文章">我们传递幸福感</a></span>”为品牌理念，基于<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%bd%93%e9%aa%8c%e5%bc%8f%e6%96%b0%e5%9e%8b%e4%ba%92%e8%81%94%e7%bd%91%e7%a4%be%e5%8c%ba%e5%b9%b3%e5%8f%b0" target="_blank" title="查看关于 体验式新型互联网社区平台 的文章">体验式新型互联网社区平台</a></span>，形成<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%99%ba%e8%83%bd%e8%bf%90%e5%8a%a8" target="_blank" title="查看关于 智能运动 的文章">智能运动</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%99%ba%e8%83%bd%e6%8a%95%e5%bd%b1" target="_blank" title="查看关于 智能投影 的文章">智能投影</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%99%ba%e8%83%bd%e5%ae%b6%e5%b1%85" target="_blank" title="查看关于 智能家居 的文章">智能家居</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%99%ba%e8%83%bd%e7%a9%bf%e6%88%b4" target="_blank" title="查看关于 智能穿戴 的文章">智能穿戴</a></span>、<span style="color: #00ccff;"> <a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%99%ba%e8%83%bd%e9%9f%b3%e5%93%8d" target="_blank" title="查看关于 智能音响 的文章">智能音响</a></span>五大系列产品，为用户提供<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%99%ba%e8%83%bd%e6%8e%a7%e5%88%b6" target="_blank" title="查看关于 智能控制 的文章">智能控制</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e8%83%bd%e8%80%97%e7%ae%a1%e7%90%86" target="_blank" title="查看关于 能耗管理 的文章">能耗管理</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e7%a9%ba%e6%b0%94%e7%9b%91%e6%b5%8b%e6%b2%bb%e7%90%86" target="_blank" title="查看关于 空气监测治理 的文章">空气监测治理</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%bd%b1%e9%9f%b3%e5%a8%b1%e4%b9%90" target="_blank" title="查看关于 影音娱乐 的文章">影音娱乐</a></span>、<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e8%bf%90%e5%8a%a8%e5%81%a5%e5%ba%b7" target="_blank" title="查看关于 运动健康 的文章">运动健康</a>等一揽子<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%99%ba%e6%85%a7%e7%94%9f%e6%b4%bb" target="_blank" title="查看关于 智慧生活 的文章">智慧生活</a></span>解决方案。</p>
+
+
+<p>我们深信：未来将是一个<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%b8%87%e7%89%a9%e4%ba%92%e8%81%94" target="_blank" title="查看关于 万物互联 的文章">万物互联</a></span>的世界。声物科技期待与所有用户及合作伙伴一起努力，构建一个绿色、环保、健康、和谐的美丽地球，共同促进人与人、人与物、物与物的全面互联和交融，打造愉悦的互联生活，推动世界进步。</p>
+
+
+<p><img alt="" src="file:///c:/users/administrator/appdata/roaming/360se6/User Data/temp/003476817.jpg"/><br/>
+<a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q1.png"><img alt="Q1" class=" size-medium wp-image-2764 aligncenter" height="265" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q1-600x265.png" width="600"/></a></p>
+
+
+<p> </p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q2.png"><img alt="Q2" class="alignnone size-medium wp-image-2765" height="238" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q2-600x238.png" width="600"/></a></p>
+
+
+<p> </p>
+
+
+<p> </p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q3.png"><img alt="Q3" class="alignnone size-medium wp-image-2769" height="253" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q3-600x253.png" width="600"/></a></p>
+
+
+<p> </p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q4.png"><img alt="Q4" class="alignnone size-medium wp-image-2766" height="248" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q4-600x248.png" width="600"/></a></p>
+
+
+<p> </p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q5.png"><img alt="Q5" class="alignnone size-medium wp-image-2767" height="256" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q5-600x256.png" width="600"/></a></p>
+
+
+<p> </p>
+
+
+<p><img alt="iBeacon国内企业介绍之：声物科技（sooBeacon）" src="file:///c:/users/administrator/appdata/roaming/360se6/User Data/temp/003476817.jpg"/><img alt="" src="file:///c:/users/administrator/appdata/roaming/360se6/User Data/temp/beaconp.jpg" title="iBeacon国内企业介绍之：声物科技（sooBeacon）"/><img alt="" class=" aligncenter" height="445" src="http://www.sooall.com/images/beaconp.jpg" width="857"/></p>
+
+
+<p><img alt="" src="file:///c:/users/administrator/appdata/roaming/360se6/User Data/temp/003476817.jpg"/></p>
+
+
+<ul>
+<li>
+<h3>联系我们</h3>
+<p>地址：北京市丰台区科学城星火路<br/>
+11号B座1028室<br/>
+邮编：100070<br/>
+热线：400-806-5005<br/>
+传真：010-67500878<br/>
+Email：sooall@sooall.com<br/>
+网址：www.sooall.com</p></li>
+<li>
+<h3>客户体验中心</h3>
+<p>全国服务热线：400-806-5005<br/>
+客服邮箱：UEC@sooall.com</p></li>
+<li>
+<h3>战略、开发合作</h3>
+<p>总经办<br/>
+联系电话：010-52886681<br/>
+邮箱：cooperation@sooall.com</p></li>
+<li>
+<h3>商务合作</h3>
+<p>营销中心<br/>
+联系电话：400-806-5005 转8008<br/>
+邮箱：o2o@sooall.com</p></li>
+<li>
+<h3>媒体关系</h3>
+<p>市场中心<br/>
+联系电话：400-806-5005 转8012<br/>
+邮箱：marketing@sooall.com</p></li>
+<li>
+<h3>人才招聘</h3>
+<p>行政中心<br/>
+邮箱：hr@sooall.com</p></li>
+</ul>
+
+
+<p> </p>
+
+
+<h3>声物成员企业：</h3>
+
+
+<h3>        <a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%8c%97%e4%ba%ac%e5%a3%b0%e7%89%a9%e4%bf%a1%e6%81%af%e7%a7%91%e6%8a%80%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8" target="_blank" title="查看关于 北京声物信息科技有限公司 的文章">北京声物信息科技有限公司</a></h3>
+
+
+<p>地址：北京市丰台区科学城<br/>
+星火路11号B座一层<br/>
+邮编：100070</p>
+
+
+<h3>         声物国际有限公司</h3>
+
+
+<p>地址：香港湾仔骆克道<br/>
+301-307号洛克中心19楼C室<br/>
+邮编：551202</p>
+
+
+<h3>         <a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%b7%b1%e5%9c%b3%e5%a3%b0%e7%89%a9%e4%ba%92%e5%8a%a8%e7%a7%91%e6%8a%80%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8" target="_blank" title="查看关于 深圳声物互动科技有限公司 的文章">深圳声物互动科技有限公司</a></h3>
+
+
+<p>地址：深圳市南山区前海路<br/>
+南岗商务大厦12楼1204A<br/>
+邮编：518052</p>
+
+
+<h3>         <a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%b7%b1%e5%9c%b3%e5%a3%b0%e7%89%a9%e8%a7%86%e8%ae%af%e6%8a%80%e6%9c%af%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8" target="_blank" title="查看关于 深圳声物视讯技术有限公司 的文章">深圳声物视讯技术有限公司</a></h3>
+
+
+<p>地址：深圳市前海深港合作区前湾一路1号A栋201室<br/>
+邮编：518052</p>
+
+
+<h3>          深圳声物音响有限公司</h3>
+
+
+<p>地址：深圳市前海深港合作区前湾一路1号A栋201室<br/>
+邮编：518052</p>
+
+
+<p> </p>
+
+
+<h3>          <a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%8c%97%e4%ba%ac%e6%90%9c%e6%b2%83%e4%bf%a1%e6%81%af%e6%8a%80%e6%9c%af%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8" target="_blank" title="查看关于 北京搜沃信息技术有限公司 的文章">北京搜沃信息技术有限公司</a></h3>
+
+
+<p>地址：北京市丰台区科学城<br/>
+星火路11号B座101室<br/>
+邮编：100070</p>
+
+
+<p> </p>
+
+
+<h4>查看更多国内的iBeacon相关公司，请点击&gt;&gt;&gt;</h4>

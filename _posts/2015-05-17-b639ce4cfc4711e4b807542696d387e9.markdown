@@ -1,0 +1,25 @@
+---
+layout: post
+title: "天津电视台天视观众节应用iBeaconCS技术"
+date: 2015-05-17 11:49:25
+categories: indoorwise ibeacon
+---
+<div class="asb asb-post asb-post-01"></div>
+ 
+<p class="rich_media_title" id="activity-name">
+</p>
+<div class="rich_media_thumb_wrp" id="media"><img alt="" class="rich_media_thumb aligncenter" data-s="300,640" id="js_cover" src="http://mmbiz.qpic.cn/mmbiz/CMgaXUoFI4FL2oZOL1WmaJXCK5J4bcLbwWoqv8PQAH7dX4GMEeDaI53icB7rKPqCicpykaqjlWGu1TvyJSUtXHPw/640?wx_fmt=jpeg&amp;wxfrom=5"/></div>
+
+
+<div class="rich_media_content" id="js_content">
+两会后，互联网＋概念浮出水面，基于iBeacon技术的“微信摇一摇”成为传统行业转型升级“互联网＋”探索的第一步。2015年5月8日，天津电视台在大型观众节活动中应用iBeacon蓝牙技术与微信摇周边平台，为用户带来“全民摇一摇”狂欢节。
+在活动现场，用户只需打开蓝牙，通过微信摇一摇即可摇出所处位置对应的礼品、优惠券及附近活动信息等内容，将线下与线上相结合，为用户带来互动乐趣十足的惊喜体验。
+2015年，春晚摇红包活动的“病毒式”传播，打开了传统媒体的融合转型之路，此次活动更是传统媒体在移动互联网时代的一次全新探索。iBeaconCS与微信摇一摇平台，为活动方提供了便捷连接用户和精准近场服务的能力，把每一场活动、每一个展台甚至每一件礼品都装上自己的iBeacon信标，与用户进行深度对话互动，打通传统媒体线上渠道，实现双重引流效果。
+本次活动“周边”解决方案与技术提供方——北方网iBeaconCS(www.ibeaconcs.com)负责人介绍说：“iBeacon技术是苹果公司结合蓝牙超低功耗无线技术(Bluetooth Low Energy，BLE)所开发的一套开放性协议。通过发送一个小范围的广播信号，iBeacon就可以允许用户的移动终端感知身边的世界，基于当前的地理位置发起实时互动。”
+在移动互联网时代，传统行业纷纷探索新的业务或营销模式来寻求突围，而iBeacon正是凭借其强大的连接、传感能力与低成本易部署的特点成为众多企业互联网“+”的第一步。
+在应用场景方面，除了展会、活动场景应用外，在展馆、景区、博物馆中，用户也能通过iBeacon享受定位导航、随身讲解服务；而对于广告行业来说，甚至可以将iBeacon硬件设备置入广告箱和指示牌，用户仅需摇一摇手机，即可实时查询附近门店、导航，还可延伸浏览、领取优惠券等，促进有效引流。未来，相信将有更多行业能够通过iBeacon与用户“+”到一起，将“互联网+”的概念真正落地实现。
+来源：iBeaconCS
+
+免责声明：我们对文中事实与观点保持中立，不对所包含内容的准确性、可靠性和完整性提供任何明示或暗示的保证。请读者仅供参考，并自行承担全部责任。如有版权问题请联系我们，我们将即时删除。
+
+</div>

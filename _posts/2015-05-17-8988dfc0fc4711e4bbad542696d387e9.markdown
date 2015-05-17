@@ -1,0 +1,150 @@
+---
+layout: post
+title: "iBeacon国内公司介绍之：上海博冕科技有限公司（高精度室内定位专家）"
+date: 2015-05-17 11:48:10
+categories: indoorwise ibeacon
+---
+<div class="asb asb-post asb-post-01"></div>
+ 
+<div class="CrightT">
+<h3 class="t"><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/QQ20150504224210.png"><img alt="QQ20150504224210" class="alignnone size-full wp-image-2863" height="108" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/QQ20150504224210.png" width="271"/></a></h3>
+</div>
+
+
+<div class="CrightT"><span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%b8%8a%e6%b5%b7%e5%8d%9a%e5%86%95%e7%a7%91%e6%8a%80%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8" target="_blank" title="查看关于 上海博冕科技有限公司 的文章">上海博冕科技有限公司</a></span>是一家具专业从事<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e8%93%9d%e7%89%99" target="_blank" title="查看关于 蓝牙 的文章">蓝牙</a></span>高精度<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%ae%a4%e5%86%85%e5%ae%9a%e4%bd%8d" target="_blank" title="查看关于 室内定位 的文章">室内定位</a></span>技术以及应用的高科技公司，定位技术各项指标国际同行业中遥遥领先。 我们为你提供<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=3d%e5%ae%9a%e4%bd%8d%e6%8a%80%e6%9c%af" target="_blank" title="查看关于 3D定位技术 的文章">3D定位技术</a></span>，最高精度为0.3米，支持高速运动的物体，定位延迟时间100毫秒。公司始终以提供全球一流的产品、技术、解决方案与服务为己任， 开发了基于室内定位以及<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%ae%a4%e5%86%85%e5%a4%96%e6%97%a0%e7%bc%9d%e5%ae%9a%e4%bd%8d" target="_blank" title="查看关于 室内外无缝定位 的文章">室内外无缝定位</a></span>的各种应用和解决方案，涉及<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%95%86%e4%b8%9a%e4%b8%ad%e5%bf%83" target="_blank" title="查看关于 商业中心 的文章">商业中心</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%9c%ba%e5%9c%ba" target="_blank" title="查看关于 机场 的文章">机场</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%8d%9a%e7%89%a9%e9%a6%86" target="_blank" title="查看关于 博物馆 的文章">博物馆</a></span>、企业、物流、政府、医疗、体育等行业。</div>
+
+
+<div class="CrightT"></div>
+
+
+<div class="CrightT"></div>
+
+
+<div class="CrightT"></div>
+
+
+<div class="CrightT"><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/QQ20150504223820.png"><img alt="QQ20150504223820" class="alignnone size-full wp-image-2861" height="183" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/QQ20150504223820.png" width="393"/></a></div>
+
+
+<div class="CrightT"></div>
+
+
+<div class="CrightT"></div>
+
+
+<div class="CrightT"><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/QQ20150504223841.png"><img alt="QQ20150504223841" class="alignnone size-full wp-image-2862" height="209" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/QQ20150504223841.png" width="483"/></a></div>
+
+
+<div class="CrightT"></div>
+
+
+<div class="CrightT"></div>
+
+
+<div class="CrightT"></div>
+
+
+<h3 class="CrightT">解决方案：</h3>
+
+
+<p class="CrightT"><strong> <span class="style03">室内定位系统实施架构</span></strong></p>
+
+
+<p class="CrightT"><img alt="" height="585" src="http://www.bocoom.com/chua_image/024.gif" width="856"/></p>
+
+
+<div class="CrightT">
+<div class="CenTex">
+<div class="CrightC">
+<div>
+<div><span class="style03"><strong>   室内位置监测和轨迹记录</strong></span><br/>
+<span class="style05">   大规模高精度行业应用的室内解决方案</span>
+<ul class="Kul">
+<li>高精度：定位精度在0.3米，</li>
+<li>无延迟：延迟时间在100毫秒</li>
+<li>３Ｄ定位：提供高度信息，</li>
+<li>高速目标跟踪：实现对高速运动物体的跟踪和轨迹记录</li>
+<li>功低耗：　超低低功耗</li>
+<li>抗干扰强：抗WIFI等信号干扰</li>
+</ul>
+</div>
+</div>
+<div>
+<div><span class="style03"><strong>    室内位置服务指导</strong></span><br/>
+<span class="style05">    用户级的场馆地图编译</span>
+<ul class="Kul">
+<li>根据场馆CAD工程绘图制用户级地图</li>
+<li>全要素、高精度、多级比例尺</li>
+<li>栅格地图、矢量地图、2D和3D地图</li>
+<li>支持多平台网络地图发布</li>
+</ul>
+<div class="ClearX"><span class="style05">   提供API为用户提供POI管理和维护</span></div>
+<ul class="Kul">
+<li>提供API为用户定制导航和数据管理软件</li>
+<li>让用户管理和实时更新POI数据</li>
+</ul>
+<div class="ClearX"></div>
+<p><span class="style05">    室内高精度地图导航服务</span></p>
+<ul class="Kul">
+<li>提供全方位、跨楼层室内导航计算</li>
+<li>支持用户间位置分享</li>
+</ul>
+</div>
+</div>
+<div class="ClearX2"></div>
+<div>
+<div><strong> <span class="style05">    安全防恐</span></strong>
+<ul class="Kul">
+<li>提供对目标的实时、无缝视频自动捕捉，跟踪和监控</li>
+<li>目标的跨界提醒和预警</li>
+</ul>
+</div>
+</div>
+<div>
+<div></div>
+<div><span class="style03"><strong>    用户大数据统计</strong></span>
+<ul class="Kul">
+<li>实时统计室内人员位置和驻足时间。</li>
+<li>实时统计室内人员分布密度和变化趋势，提供以时间、空间为单位的统计分析。</li>
+</ul>
+</div>
+</div>
+<div class="ClearX2"></div>
+</div>
+<h3 class="Cright">应用案例：</h3>
+<div></div>
+<div><img alt="" height="398" src="http://www.bocoom.com/chua_image/p016.jpg" width="856"/></div>
+</div>
+<div class="ClearX"><img alt="" height="398" src="http://www.bocoom.com/chua_image/p017.jpg" width="856"/></div>
+</div>
+
+
+<div class="CrightT"></div>
+
+
+<div class="CrightT"><img alt="" height="398" src="http://www.bocoom.com/chua_image/p009.jpg" width="856"/></div>
+
+
+<div class="CrightT">
+
+
+
+
+
+
+联系我们 ：
+
+
+
+上海博冕科技有限公司
+地址：上海市长宁区临虹路280弄1号楼105室
+电话：+021 52300720
+手机： +86 13818533268(专线服务)
+邮件：service@Bocoom.com
+
+
+查看更多国内的iBeacon相关公司，请点击&gt;&gt;&gt;
+
+
+
+</div>

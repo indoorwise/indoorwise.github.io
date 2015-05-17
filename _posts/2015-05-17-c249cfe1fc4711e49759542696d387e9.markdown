@@ -1,0 +1,25 @@
+---
+layout: post
+title: "iBeacon的开放工作场所或咖啡馆居然可以抢位了！"
+date: 2015-05-17 11:49:46
+categories: indoorwise ibeacon
+---
+<div class="asb asb-post asb-post-01"></div>
+ 
+<div class="rich_media_thumb_wrp" id="media"><img alt="" class="rich_media_thumb aligncenter" data-s="300,640" id="js_cover" src="http://mmbiz.qpic.cn/mmbiz/sYgx3LxpXkKgwShbeddotrJCWAFO0FAoVzadAd4j2WWv9SG58wM5Xb9eu0FBCgCM1Fx6RELq0NJHjEFRC8phXg/640?wx_fmt=jpeg&amp;wxfrom=5"/></div>
+
+
+<div class="rich_media_content" id="js_content">
+在 TechCrunch Disrupt NY Hackathon 大会上，戴夫·艾代尔（Dave Idell）、亚当·周（AdamChew）以及妮莎·卡列甘（Nisha Garigan）三名来自Perqy 的联合创始人同大家见面并展示了他们的软件 Croissant。消费者可以通过他们的软件在安装有iBeacon 设备的本地店铺（比如咖啡店或是共用工作场所）预订座位，并对消费者使用预订位置的精确时长进行自动收费。
+店主还可以通过在线的控制面板查阅其消费者的店内实时分布图。
+软件的创意，艾代尔（Idell）解释说，源自上次消费的咖啡店。该店提供类似的服务，但是使用的系统需要更多的手动操作，包括需要使用店里安装的平板进行登记。消费者需要在店里输入手机号以及座位号以向商家提供姓名以及具体位置。
+但是 Croissant 不同，其使用面向用户的移动应用进行自动登记。通过该应用（hackathon 大会演示期间尚未制作完成），消费者可以预订共有工作场所座位，甚至通过内置的食品饮料菜单点菜。
+应用通过蓝牙指向标（Bluetooth beacons）对消费者的登记信息以及点菜（如果适用）信息进行记录，并在其离开商店后自动对信用卡进行扣费。
+为了参加周末的大会，开发团队使用了 Gimball 提供的 API，同时 Gimball 也提供了iBeacon 设备进行测试，测试iBeacon 的发射范围达到了 50 码。当离开指定位置时，软件通过 MasterCard’sSimplify Commerce API对消费者的银行卡进行自动处理。
+此类系统对于那些希望能够将其桌位提供给消费者进行工作并指定使用时间的咖啡店意义非凡，咖啡店还可以获得除食品饮料销售外的收入。同时，共用工作场所也可以根据使用者的实际使用分钟进行收费，而不是像现在这样需要以半小时或一个小时为标准进行预订。
+而且对于任何使用iBeacon 技术并且希望追踪其消费者日间行动或是滞留时间的店铺来讲也可以使用该系统。当然已经有大量的公司正在开发专门用于此类大规模追踪的系统。
+Croissant 的开发者称他们并不确定是否在 hackathon 大会后继续进行开发，但是他们并未否定此种可能性。
+“Croissant 可能会与 Perqy 产生协同效应，”艾代尔称，“我们需要对可能产生的效应做进一步了解。”
+来源：51ibeacon
+免责声明：我们对文中事实与观点保持中立，不对所包含内容的准确性、可靠性和完整性提供任何明示或暗示的保证。请读者仅供参考，并自行承担全部责任。如有版权问题请联系我们，我们将即时删除。
+</div>

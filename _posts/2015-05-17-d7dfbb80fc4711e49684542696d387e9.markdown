@@ -1,0 +1,90 @@
+---
+layout: post
+title: "iBeacon国内公司介绍之：深圳市信驰达科技有限公司"
+date: 2015-05-17 11:50:22
+categories: indoorwise ibeacon
+---
+<div class="asb asb-post asb-post-01"></div>
+ 
+<div class="mr20">
+<div><span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%b7%b1%e5%9c%b3%e5%b8%82%e4%bf%a1%e9%a9%b0%e8%be%be%e7%a7%91%e6%8a%80%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8" target="_blank" title="查看关于 深圳市信驰达科技有限公司 的文章">深圳市信驰达科技有限公司</a></span>（<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=rf-star" target="_blank" title="查看关于 RF Star 的文章">RF Star</a></span>）是一家以技术为核心，专注于低功耗无线射频行业，集合射频核心器件供应以及整体解决方案的高新技术企业。公司是<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e7%be%8e%e5%9b%bd" target="_blank" title="查看关于 美国 的文章">美国</a><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%be%b7%e5%b7%9e" target="_blank" title="查看关于 德州 的文章">德州</a></span>仪器公司（TI）中国区的第三方合作伙伴（IDH），拥有近百项产品认证和20余项专利以及软件著作权，公司汇聚了一批在半导体和射频行业拥有多年经验的资深人士，致力于为客户提供最专业的解决方案和个性化的定制服务，解决客户在无线协议以及高频设计上的问题，助推客户加快产品化。</div>
+<div>
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/QQ20150513202135.png"><img alt="QQ20150513202135" class="alignnone size-full wp-image-3157" height="92" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/QQ20150513202135.png" width="298"/></a></p>
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/QQ20150513202222.png"><img alt="QQ20150513202222" class="alignnone size-full wp-image-3158" height="134" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/QQ20150513202222.png" width="433"/></a></p>
+<p><strong>我们的服务</strong></p>
+</div>
+</div>
+
+
+<div>1、我们的专业人员给客户提供前期的技术讲解和支持及项目评估风险的顾问服务。</div>
+
+
+<div>2、与著名半导体厂家建立深度合作，获取最前沿的产品资讯和最新技术，提供最优势的价格支持。</div>
+
+
+<div>3、核心团队成员是来自海内外的业界资深人士，经验丰富，为客户提供技术难点攻关的专项服务。</div>
+
+
+<div>4、专业的研发团队，拥有多年的射频电路设计及应用经验，积累出多项核心技术和生产测试经验。</div>
+
+
+<div>5、与国内外多家研究机构和产业标准联盟及实验室合作，能获取最前沿最先进的技术和测试环境。</div>
+
+
+<div>6、根据客户需求，提供不同层次的设计参考方案，帮客户缩短产品研发周期，加快项目研发进度。</div>
+
+
+<div></div>
+
+
+<h3>解决方案</h3>
+
+
+<div> <img alt="" class=" aligncenter" src="http://www.szrfstar.com/upload/allimg/140912/1-1409121S910.jpg"/></div>
+
+
+<div></div>
+
+
+<div><img alt="" src="http://www.szrfstar.com/upload/allimg/140912/1-1409121S910-50.jpg"/></div>
+
+
+<div></div>
+
+
+<div><img alt="" src="http://www.szrfstar.com/upload/allimg/140912/1-1409121S911.jpg"/></div>
+
+
+<div></div>
+
+
+<div><img alt="" src="http://www.szrfstar.com/upload/allimg/140912/1-1409121S912.jpg"/></div>
+
+
+<div></div>
+
+
+<h4>联系我们</h4>
+
+
+<div>陈昌明 Hulk</div>
+
+
+<div>
+TEL :18576771136                 QQ:371422404</div>
+
+
+<div>
+E-mail:<a href="mailto:Hulk@szrfstar.com" target="_blank">Hulk@szrfsta<wbr></wbr>r.com</a>    Web: <a href="http://www.szrfstar.com/" target="_blank">www.szrfstar<wbr></wbr>.com</a>
+</div>
+
+
+<div class="con_con">
+总机：0755-8632 9829          传真：0755-8632 9413
+
+网址：www.szrfstar.com        邮箱：sales@szrfstar.com
+公司地址：深圳市宝安区宝源路互联网产业基地A区8栋2层 邮编：518100
+查看更多国内的iBeacon相关公司，请点击&gt;&gt;&gt;
+
+
+</div>

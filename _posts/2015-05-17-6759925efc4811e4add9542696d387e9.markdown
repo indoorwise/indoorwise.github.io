@@ -1,0 +1,33 @@
+---
+layout: post
+title: "iBeacon：“互联网＋”的第一步"
+date: 2015-05-17 11:54:22
+categories: indoorwise ibeacon
+---
+<div class="asb asb-post asb-post-01"></div>
+ 
+<p><em></em>　　<strong>导语：<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%b8%a4%e4%bc%9a" target="_blank" title="查看关于 两会 的文章">两会</a></span>后，“<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%ba%92%e8%81%94%e7%bd%91%ef%bc%8b" target="_blank" title="查看关于 互联网＋ 的文章">互联网＋</a></span>“的概念被炒得如火如荼，而基于<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=ibeacon%e6%8a%80%e6%9c%af" target="_blank" title="查看关于 iBeacon技术 的文章">iBeacon技术</a></span>的“<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%be%ae%e4%bf%a1%e6%91%87%e4%b8%80%e6%91%87" target="_blank" title="查看关于 微信摇一摇 的文章">微信摇一摇</a></span>”则成为了诸多传统行业转型升级“＋”的第一步。</strong></p>
+
+
+<div class="text clear">
+<p>　　<img alt="" class=" aligncenter" src="http://photocdn.sohu.com/20150511/mp14515845_1431323997162_2.jpeg"/></p>
+<p>近日，<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%a4%a9%e6%b4%a5%e7%94%b5%e8%a7%86%e5%8f%b0" target="_blank" title="查看关于 天津电视台 的文章">天津电视台</a></span>在其大型观众节活动中，应用<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=ibeacon%e8%93%9d%e7%89%99%e6%8a%80%e6%9c%af" target="_blank" title="查看关于 iBeacon蓝牙技术 的文章">iBeacon蓝牙技术</a></span>与<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%be%ae%e4%bf%a1%e6%91%87%e5%91%a8%e8%be%b9%e5%b9%b3%e5%8f%b0" target="_blank" title="查看关于 微信摇周边平台 的文章">微信摇周边平台</a></span>，为用户带来了一场“全民摇一摇”的狂欢节。</p>
+<p>据了解，在现场，用户只需打开<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e8%93%9d%e7%89%99" target="_blank" title="查看关于 蓝牙 的文章">蓝牙</a>，通过<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%be%ae%e4%bf%a1%e6%91%87%e4%b8%80%e6%91%87" target="_blank" title="查看关于 微信摇一摇 的文章">微信摇一摇</a>即可摇出用户所处位置对应的礼品、优惠券或是<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e9%99%84%e8%bf%91%e6%b4%bb%e5%8a%a8" target="_blank" title="查看关于 附近活动 的文章">附近活动</a></span>信息等内容，将线下与线上相结合，为用户带来互动乐趣十足的惊喜体验。</p>
+<p>本次活动“<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%91%a8%e8%be%b9" target="_blank" title="查看关于 周边 的文章">周边</a>”解决方案与技术提供方是<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%8c%97%e6%96%b9%e7%bd%91" target="_blank" title="查看关于 北方网 的文章">北方网</a>iBeaconCS</span>(www.<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=ibeaconcs" target="_blank" title="查看关于 ibeaconcs 的文章">ibeaconcs</a>.com)，负责人<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e7%8e%8b%e5%ae%87" target="_blank" title="查看关于 王宇 的文章">王宇</a></span>介绍 说,“<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=ibeacon%e6%8a%80%e6%9c%af" target="_blank" title="查看关于 iBeacon技术 的文章">iBeacon技术</a>是<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e8%8b%b9%e6%9e%9c" target="_blank" title="查看关于 苹果 的文章">苹果</a></span>公司结合蓝牙超低功耗无线技术(Bluetooth Low Energy，BLE)所开发的一套开放性协议。通过发送一个小范围的广播信号，iBeacon就可以允许用户的移动终端感知身边的世界，基于当前的地理 位置发起实时互动。”</p>
+<p><img alt="" class=" aligncenter" src="http://photocdn.sohu.com/20150511/mp14515845_1431323997162_3.jpeg"/></p>
+<p>2015年<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%98%a5%e6%99%9a" target="_blank" title="查看关于 春晚 的文章">春晚</a></span>摇红包活动的”病毒式“传播，打开了传统媒体的融合转型之路，此次活动更是传统媒体在移动互联网时代的一次全新探索。 iBeaconCS与<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%be%ae%e4%bf%a1%e6%91%87%e4%b8%80%e6%91%87" target="_blank" title="查看关于 微信摇一摇 的文章">微信摇一摇</a>平台，为活动方提供了便捷连接用户和精准近场服务的能力，把每一场活动、每一个展台甚至每一件礼品都装上自己的 <span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=ibeacon%e4%bf%a1%e6%a0%87" target="_blank" title="查看关于 iBeacon信标 的文章">iBeacon信标</a></span>，与用户进行深度对话互动，打通传统媒体线上渠道，实现双重引流效果。</p>
+<p>在移动互联网时代，传统行业纷纷探索新的业务或营销模式来寻求突围，而iBeacon正是凭借其强大的连接、传感能力与低成本易部署的特点成为众多企业“互联网”的第一步。</p>
+<p>在应用场景方面，除了展会、活动场景应用外，在<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%b1%95%e9%a6%86" target="_blank" title="查看关于 展馆 的文章">展馆</a></span>、街景、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%8d%9a%e7%89%a9%e9%a6%86" target="_blank" title="查看关于 博物馆 的文章">博物馆</a></span>中，用户也能通过iBeacon享受<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%ae%9a%e4%bd%8d%e5%af%bc%e8%88%aa" target="_blank" title="查看关于 定位导航 的文章">定位导航</a></span>、随身讲解服务；而对于<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%b9%bf%e5%91%8a%e8%a1%8c%e4%b8%9a" target="_blank" title="查看关于 广告行业 的文章">广告行业</a></span> 来说，甚至可以将iBeacon硬件设备置入广告箱和指示牌，用户仅需摇一摇手机，即可实时查询附近门店、导航，还可延伸浏览、领取优惠券等，促进有效引 流。未来，相信将有更多行业能够通过iBeacon与用户链接到一起，将“互联网+”的概念真正落地实现。</p>
+</div>
+
+
+<div id="mparea">来源：<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%8c%97%e6%96%b9%e7%bd%91" target="_blank" title="查看关于 北方网 的文章">北方网</a></div>
+
+
+<div></div>
+
+
+<div>免责声明：我们对文中事实与观点保持中立，不对所包含内容的准确性、可靠性和完整性提供任何明示或暗示的保证。请读者仅供参考，并自行承担全部责任。如有版权问题请联系我们，我们将即时删除。</div>
+
+
+<p> </p>

@@ -1,0 +1,168 @@
+---
+layout: post
+title: "云子联合CCTV进行五一ibeacon景区互动，获各地游客广泛参与"
+date: 2015-05-17 11:46:46
+categories: indoorwise ibeacon
+---
+<div class="asb asb-post asb-post-01"></div>
+ 
+<p>继2015羊年央视春晚“<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%be%ae%e4%bf%a1%e6%91%87%e4%b8%80%e6%91%87" target="_blank" title="查看关于 微信摇一摇 的文章">微信摇一摇</a></span>”之后，尝到甜头的<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%b8%ad%e5%a4%ae%e7%94%b5%e8%a7%86%e5%8f%b0" target="_blank" title="查看关于 中央电视台 的文章">中央电视台</a>在今年五一又开始了新动作。今年<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%ba%94%e4%b8%80%e5%81%87%e6%9c%9f" target="_blank" title="查看关于 五一假期 的文章">五一假期</a></span>期间，<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%b8%ad%e5%a4%ae%e7%94%b5%e8%a7%86%e5%8f%b0" target="_blank" title="查看关于 中央电视台 的文章">中央电视台</a></span>联合<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%ba%91%e5%ad%90" target="_blank" title="查看关于 云子 的文章">云子</a>科技在全国40家5A级景区铺设了数千个<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%99%ba%e8%83%bd%e8%93%9d%e7%89%99%e4%bc%a0%e6%84%9f%e5%99%a8%e4%ba%91%e5%ad%90" target="_blank" title="查看关于 智能蓝牙传感器云子 的文章">智能蓝牙传感器云子</a></span>，架设了首个<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%ba%92%e5%8a%a8%e4%ba%91%e5%b9%b3%e5%8f%b0%ef%bc%8c" target="_blank" title="查看关于 互动云平台， 的文章">互动云平台，</a><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%b8%b8%e5%ae%a2" target="_blank" title="查看关于 游客 的文章">游客</a></span>通过互动云平台可以<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%ae%9e%e6%97%b6%e5%88%86%e4%ba%ab" target="_blank" title="查看关于 实时分享 的文章">实时分享</a><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%84%9f%e5%8f%97" target="_blank" title="查看关于 感受 的文章">感受</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e7%82%b9%e8%af%84" target="_blank" title="查看关于 点评 的文章">点评</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%90%90%e6%a7%bd" target="_blank" title="查看关于 吐槽 的文章">吐槽</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%8a%95%e8%af%89" target="_blank" title="查看关于 投诉 的文章">投诉</a></span>，参与<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%ba%92%e5%8a%a8%e8%af%9d%e9%a2%98" target="_blank" title="查看关于 互动话题 的文章">互动话题</a></span>。</p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/q12.png"><img alt="q1" class="alignnone size-medium wp-image-2780" height="300" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/q12-386x300.png" width="386"/></a></p>
+
+
+<p> </p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Qlanya1.png"><img alt="Qlanya1" class="alignnone size-medium wp-image-2781" height="300" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Qlanya1-388x300.png" width="388"/></a></p>
+
+
+<p> </p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Qlanya3.png"><img alt="Qlanya3" class="alignnone size-medium wp-image-2782" height="300" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Qlanya3-388x300.png" width="388"/></a></p>
+
+
+<p> </p>
+
+
+<p> </p>
+
+
+<p>5月2日景区交互平台的<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%ba%92%e5%8a%a8%e8%af%9d%e9%a2%98" target="_blank" title="查看关于 互动话题 的文章">互动话题</a>是：<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%bd%a0%e9%82%a3%e9%87%8c%e6%8c%a4%e5%90%97" target="_blank" title="查看关于 你那里挤吗 的文章">你那里挤吗</a>？共有五个选项，详情见下图：</p>
+
+
+<p>视频地址：<a href="http://news.cntv.cn/2015/05/02/VIDE1430558164890554.shtml" target="_blank">http://news.<wbr></wbr>cntv.cn/2015<wbr></wbr>/05/02/VIDE1<wbr></wbr>430558164890<wbr></wbr>554.shtml</a></p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/q11.png"><img alt="q1" class="alignnone wp-image-2772" height="370" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/q11-391x300.png" width="482"/></a></p>
+
+
+<p> </p>
+
+
+<p>截至下午两点40是个景区超过六万人参与了互动，结果如下：</p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q7.png"><img alt="Q7" class="alignnone wp-image-2773" height="370" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q7-393x300.png" width="485"/></a></p>
+
+
+<p> </p>
+
+
+<p>下面是网友通过交互平台分享视频的截图：</p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q31.png"><img alt="Q3" class="alignnone size-medium wp-image-2774" height="300" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q31-404x300.png" width="404"/></a></p>
+
+
+<p> </p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q41.png"><img alt="Q4" class="alignnone size-medium wp-image-2775" height="300" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q41-394x300.png" width="394"/></a></p>
+
+
+<p> </p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q51.png"><img alt="Q5" class="alignnone size-medium wp-image-2776" height="300" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q51-418x300.png" width="418"/></a></p>
+
+
+<p> </p>
+
+
+<p> </p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q6.png"><img alt="Q6" class="alignnone size-medium wp-image-2777" height="300" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q6-412x300.png" width="412"/></a></p>
+
+
+<p> </p>
+
+
+<p> </p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q8.png"><img alt="Q8" class="alignnone size-medium wp-image-2778" height="300" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q8-396x300.png" width="396"/></a></p>
+
+
+<p> </p>
+
+
+<p>5月1日的<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%ba%92%e5%8a%a8%e8%af%9d%e9%a2%98" target="_blank" title="查看关于 互动话题 的文章">互动话题</a>是：<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%99%af%e5%8c%ba%e4%bd%8f%e5%ae%bf" target="_blank" title="查看关于 景区住宿 的文章">景区住宿</a>涨没涨？</p>
+
+
+<p>视频地址：<a href="http://news.cntv.cn/2015/05/01/VIDE1430476376915359.shtml" target="_blank">http://news.<wbr></wbr>cntv.cn/2015<wbr></wbr>/05/01/VIDE1<wbr></wbr>430476376915<wbr></wbr>359.shtml</a></p>
+
+
+<p>这是<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%ba%94%e5%8f%b0%e5%b1%b1%e6%99%af%e5%8c%ba" target="_blank" title="查看关于 五台山景区 的文章">五台山景区</a></span>游客上传的最近几天的<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%bd%8f%e5%ae%bf" target="_blank" title="查看关于 住宿 的文章">住宿</a><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%8f%91%e7%a5%a8" target="_blank" title="查看关于 发票 的文章">发票</a></span>，上面显示住宿费由一晚60元涨到280元。</p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q145.png"><img alt="Q145" class="alignnone size-medium wp-image-2784" height="300" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q145-385x300.png" width="385"/></a></p>
+
+
+<p> </p>
+
+
+<p>这是一位游客上传的住宿视频截图：</p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q121.png"><img alt="Q12" class="alignnone size-medium wp-image-2785" height="300" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q121-388x300.png" width="388"/></a></p>
+
+
+<p> </p>
+
+
+<p> </p>
+
+
+<p>这是<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%b3%b0%e5%b1%b1%e6%99%af%e5%8c%ba" target="_blank" title="查看关于 泰山景区 的文章">泰山景区</a></span>的一位游客上传的<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%99%af%e5%8c%ba%e9%85%92%e5%ba%97" target="_blank" title="查看关于 景区酒店 的文章">景区酒店</a><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%88%bf%e4%bb%b7" target="_blank" title="查看关于 房价 的文章">房价</a></span>，上涨的有点多：</p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/QQ13.png"><img alt="QQ13" class="alignnone size-medium wp-image-2786" height="300" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/QQ13-368x300.png" width="368"/></a></p>
+
+
+<p> </p>
+
+
+<p> </p>
+
+
+<p>面对部分<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%99%af%e5%8c%ba%e4%bd%8f%e5%ae%bf" target="_blank" title="查看关于 景区住宿 的文章">景区住宿</a>价格上涨的问题，很多游客通过<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%a4%ae%e8%a7%86%e6%99%af%e5%8c%ba%e4%ba%91%e5%ad%90%e4%ba%92%e5%8a%a8%e5%b9%b3%e5%8f%b0" target="_blank" title="查看关于 央视景区云子互动平台 的文章">央视景区云子互动平台</a></span>参与了调查：</p>
+
+
+<p> </p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q141.png"><img alt="Q14" class="alignnone size-medium wp-image-2787" height="300" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q141-408x300.png" width="408"/></a></p>
+
+
+<p> </p>
+
+
+<p> </p>
+
+
+<p>这是今年五一期间，<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%b8%ad%e5%a4%ae%e7%94%b5%e8%a7%86%e5%8f%b0" target="_blank" title="查看关于 中央电视台 的文章">中央电视台</a>联合云子科技打造的，基于“<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%be%ae%e4%bf%a1%e6%91%87%e4%b8%80%e6%91%87" target="_blank" title="查看关于 微信摇一摇 的文章">微信摇一摇</a>”的成都都江堰景区互动活动：五一E起游！游客可以通过打开<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%89%8b%e6%9c%ba%e8%93%9d%e7%89%99" target="_blank" title="查看关于 手机蓝牙 的文章">手机蓝牙</a></span>——进入“微信摇一摇”——<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%91%87%e4%b8%80%e6%91%87%e5%91%a8%e8%be%b9" target="_blank" title="查看关于 摇一摇周边 的文章">摇一摇周边</a></span>参与活动。</p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q123.png"><img alt="Q123" class="alignnone size-medium wp-image-2789" height="300" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q123-307x300.png" width="307"/></a></p>
+
+
+<p> </p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q234.png"><img alt="Q234" class="alignnone size-medium wp-image-2792" height="300" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q234-430x300.png" width="430"/></a></p>
+
+
+<p> </p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/QQ20150502225217.png"><img alt="QQ20150502225217" class="alignnone size-medium wp-image-2791" height="300" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/QQ20150502225217-363x300.png" width="363"/></a></p>
+
+
+<p> </p>
+
+
+<p> </p>

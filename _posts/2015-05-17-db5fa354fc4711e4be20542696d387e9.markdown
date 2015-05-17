@@ -1,0 +1,91 @@
+---
+layout: post
+title: "iBeacon国内公司介绍之：上海欧新软件有限公司"
+date: 2015-05-17 11:50:28
+categories: indoorwise ibeacon
+---
+<div class="asb asb-post asb-post-01"></div>
+ 
+<h3><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/QQ20150514204533.jpg"><img alt="QQ20150514204533" class="alignnone size-medium wp-image-3181" height="300" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/QQ20150514204533-392x300.jpg" width="392"/></a></h3>
+
+
+<h3>公司概况：</h3>
+
+
+<p><span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%b8%8a%e6%b5%b7%e6%ac%a7%e6%96%b0%e8%bd%af%e4%bb%b6%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8" target="_blank" title="查看关于 上海欧新软件有限公司 的文章">上海欧新软件有限公司</a></span></p>
+
+
+<h3><img alt="" class=" aligncenter" src="http://www.oshinsoft.com/images/ou.jpg"/></h3>
+
+
+<h3>解决方案：</h3>
+
+
+<h4><span class="bt"><span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=ibeacon%e5%ae%9a%e4%bd%8d" target="_blank" title="查看关于 iBeacon定位 的文章">iBeacon定位</a></span>信息推送方案概述</span></h4>
+
+
+<p>iBeacon是基于<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=apple-beacon" target="_blank" title="查看关于 Apple Beacon 的文章">Apple Beacon</a></span>协议的<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e8%93%9d%e7%89%99" target="_blank" title="查看关于 蓝牙 的文章">蓝牙</a></span>发射基站（下称位置定位器），通过一个内置<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e8%93%9d%e7%89%99" target="_blank" title="查看关于 蓝牙 的文章">蓝牙</a>4.0芯片，能够发射与接收2.4GHz的蓝牙信号，从而与范围50米内的蓝牙手机进行信息交互，继而实现定位功能。<br/>
+本方案中的顾客手机中须安装实现本方案的APP。手机的APP实时地接收位置定位器的信息及与云端服务器进行位置信息的交互，系统自动地根据顾客向云端提供位置信息，向顾客手机推送广告信息，或为客户提供现在位置与目标位置的<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%af%bc%e8%88%aa" target="_blank" title="查看关于 导航 的文章">导航</a>功能。</p>
+
+
+<p><img alt="" class=" aligncenter" height="464" src="http://www.oshinsoft.com/images/product_pic13.jpg" width="720"/></p>
+
+
+<h4 class="ny_ti">iBeacon定位信息推送方案概述</h4>
+
+
+<div class="bk5"> iBeacon是基于Apple Beacon协议的蓝牙发射基站（下称位置定位器），通过一个内置蓝牙4.0芯片，能够发射与接收2.4GHz的蓝牙信号，从而与范围50米内的蓝牙手机进行信息交互，继而实现定位功能。</div>
+
+
+<p>本方案中的顾客手机中须安装实现本方案的APP。手机的APP实时地接收位置定位器的信息及与云端服务器进行位置信息的交互，系统自动地根据顾客向云端提供位置信息，向顾客手机推送广告信息，或为客户提供现在位置与目标位置的<span style="color: #00ccff;">导航</span>功能。</p>
+
+
+<p><img alt="" class=" aligncenter" height="440" src="http://www.oshinsoft.com/images/case_pic2.jpg" width="720"/></p>
+
+
+<h3>产品介绍：</h3>
+
+
+<h4 class="ny_ti">iBeacon定位广告推送系统</h4>
+
+
+<div class="bk10"> 本系统是利用iBeacon基站(下称位置定位器)的超低功耗为商店顾客提供实时位置信息，当顾客终端进入商店后，系统可根据顾客所在位置，向顾客终端推送特定的服务信息、广告、以及其他资讯。既提高商店<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%99%ba%e8%83%bd" target="_blank" title="查看关于 智能 的文章">智能</a></span>服务品位，同时还增加广告营销,市场宣传的力度。</div>
+
+
+<div class="bk10"></div>
+
+
+<div class="bk10"><img alt="" class=" aligncenter" height="464" src="http://www.oshinsoft.com/images/product_pic13.jpg" width="720"/></div>
+
+
+<h4 class="ny_ti">iBeacon定位导航系统概述</h4>
+
+
+<div class="bk10"> 顾客在商场的任意位置，想要找到自己的目标柜台，启动APP的导购功能。系统将以顾客现在的位置为起点，并以顾客指定柜台区域为终点，帮助顾客找到一条最合适的移动路径，并显示在顾客的客户端。</div>
+
+
+<div class="bk10"></div>
+
+
+<p><img alt="" class=" aligncenter" height="464" src="http://www.oshinsoft.com/images/product_pic12.jpg" width="720"/></p>
+
+
+<p> </p>
+
+
+<h3>联系我们：</h3>
+
+
+<p><strong>地址:</strong><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%b8%8a%e6%b5%b7" target="_blank" title="查看关于 上海 的文章">上海</a>市徐汇区华山路2018号汇银广场北楼21楼2103室</p>
+
+
+<p><strong>电话:</strong> <span class="en">021-54072098</span></p>
+
+
+<p><span class="en"><strong>Mail:</strong> wifi-s@oshinsoft.com</span></p>
+
+
+<h3><a href="http://www.ibeaconworld.cn/?page_id=789" title="iBeacon公司">查看更多国内的iBeacon相关公司，请点击&gt;&gt;&gt;</a></h3>
+
+
+<p> </p>

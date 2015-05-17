@@ -1,0 +1,23 @@
+---
+layout: post
+title: "台北国际电脑展启用iBeacon"
+date: 2015-05-17 11:47:53
+categories: indoorwise ibeacon
+---
+<div class="asb asb-post asb-post-01"></div>
+ 
+<p>台北国际电脑展即将登场，主办单位外贸协会宣布今年该展App全新版本，首度运用iBeacon技术，内建蓝牙室内导航功能，国外买主运用智慧型手机便能轻鬆掌握最便捷的参观路线。<br/>
+<a href="http://www.ibeaconfans.com/wp-content/uploads/2014/06/ibeacon-taipei.jpg"><img alt="ibeacon taipei" class="alignnone size-medium wp-image-451" height="257" src="http://www.ibeaconfans.com/wp-content/uploads/2014/06/ibeacon-taipei-300x257.jpg" width="300"/></a><br/>
+另外，Computex App也首度增加Windows Phone版本，与Android及iOS版本同样具备崭新设计、风格简洁的使用者介面。</p>
+
+
+<p>Computex App可方便提供国际买主预先登录、新闻资料、活动讯息、厂商索引、摊位图、大会刊物、交通指南等多样讯息及功能，让买主从来台前的行程规划，乃至在台观展期间即时讯息的获取，都可利用手机完成。</p>
+
+
+<p>主办单位指出，这次会推出iBeacon，是针对许多国际大展参观者最常感到困扰的问题，也就是如何在广大的展场中找到特定厂商的摊位位置，今年电脑展App也提出了行动解决方案，结合最新室内定位导航技术，让智慧型手机使用者一机在手不怕迷失在展场中。</p>
+
+
+<p>為了克服室内无法接受GPS讯号做室内定位的问题，外贸协会今年首度与国内iBeacon製造商合作，於展场内提供室内导航功能。</p>
+
+
+<p>参观者仅需下载电脑展App，并於展场中根据App的提示开啟蓝牙功能，便能轻鬆透过内建的展场平面图知道自己所处的位置，输入特定厂商的名称或摊位号码，App更可自动规划出步行的最近路径，导引参观者前往。</p>

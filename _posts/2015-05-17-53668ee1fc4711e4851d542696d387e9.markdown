@@ -1,0 +1,47 @@
+---
+layout: post
+title: "iBeacon国内公司介绍：北京迈吉科技有限公司（悦逛APP）"
+date: 2015-05-17 11:46:40
+categories: indoorwise ibeacon
+---
+<div class="asb asb-post asb-post-01"></div>
+ 
+<div class="clearfix colelem" id="pu969-3">
+<div class="browser_width grpelem" id="u969-3-bw"></div>
+<nav class="MenuBar clearfix grpelem" id="menuu971">
+<div class="MenuItemContainer clearfix grpelem" id="u986"><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" href="http://www.letsguang.cn/main/index.html" id="u987"><img alt="首页" class="MenuItemLabel NoWrap grpelem" id="u989" src="http://www.letsguang.cn/main/images/blank.gif"/></a></div>
+<div class="MenuItemContainer clearfix grpelem" id="u2664"><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" href="http://www.letsguang.cn/main/product.html" id="u2665"><img alt="体验产品" class="MenuItemLabel NoWrap grpelem" id="u2668" src="http://www.letsguang.cn/main/images/blank.gif"/></a></div>
+<div class="MenuItemContainer clearfix grpelem" id="u2404"><a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix colelem" href="http://www.letsguang.cn/main/about.html" id="u2405"><img alt="关于我们" class="MenuItemLabel NoWrap grpelem" id="u2407" src="http://www.letsguang.cn/main/images/blank.gif"/></a></div>
+</nav>
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/q1.jpg"><img alt="q1" class="alignnone wp-image-2796" height="446" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/q1-300x300.jpg" width="446"/></a></p>
+</div>
+
+
+<p><img alt="公司简介 北京迈吉科技有限公司成立于2014年3月，一直致力于智能手机应用的开发与推广。「悦逛」是北京迈吉科技有限公司研发的第一款手机应用，也是中国首款应用超声蓝牙基站技术的购物类应用。 我们希望能通过移动技术把个性化服务带回到店内购物体验中，使得消费者、商户、商场三方受益。「悦逛」致力于为用户带来愉快、实惠和充满奖励的移动购物体验，消费者可以通过到达合作商家实现自动签到，自动获取积分，并能凭借积分在合作商家轻松兑换礼品；同时「悦逛」还为商家提供更加精准和实效的移动营销解决方案，精确掌握浏览量和进店客流，实现口碑营销和个性化投放，为商场带来人气和消费人群。 「悦逛」目前已有iOS版和Android版两个版本，适用于市面上大部分的智能手机。我们还会继续进行版本迭代开发，同时收集用户和商家的反馈意见，继续完善软件的不足，同时推广向更多的商场，让更多区域的用户和商家享受到「悦逛」的优质服务。 " class="colelem" height="260" id="u359-14" src="http://www.letsguang.cn/main/images/u359-14.png" width="920"/></p>
+
+
+<h3><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e9%80%9b%e8%a1%97%e5%85%a8%e6%96%b0%e4%bd%93%e9%aa%8c" target="_blank" title="查看关于 逛街全新体验 的文章">逛街全新体验</a>：</h3>
+
+
+<div class="clearfix colelem" id="u710-9">
+
+搜索附近商场：
+
+自动签到获取积分：
+
+随时中大奖：
+
+获取购物信息：
+
+换购礼品：
+
+ 
+网站地址：
+http://www.letsguang.cn
+联系我们：
+招聘邮箱： recruit@letsguang.com
+       綜合查询： admin@letsguang.com
+       客服电话：400 890 0779
+查看更多国内的iBeacon相关公司，请点击&gt;&gt;&gt;
+ 
+</div>

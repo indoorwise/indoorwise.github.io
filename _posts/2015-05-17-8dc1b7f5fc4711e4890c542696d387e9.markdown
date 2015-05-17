@@ -1,0 +1,48 @@
+---
+layout: post
+title: "美国MLB棒球场、韩国棒球场已完成部署iBeacon感应器"
+date: 2015-05-17 11:48:17
+categories: indoorwise ibeacon
+---
+<div class="asb asb-post asb-post-01"></div>
+ 
+<p><img alt="威锋网消息，美国职业棒球大联盟（MLB）今日宣布，他们已经完成在两个棒球场中部署iBeacon感应器，这两个棒球场分别位于洛杉矶和圣地亚哥。" border="1" class="flag_bigP aligncenter" height="332" src="http://photocdn.sohu.com/20140215/Img395040547.jpg" width="500"/></p>
+
+
+<p><span style="color: #00ccff;">    <a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%a8%81%e9%94%8b%e7%bd%91" target="_blank" title="查看关于 威锋网 的文章">威锋网</a></span>消息，<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e7%be%8e%e5%9b%bd%e8%81%8c%e4%b8%9a%e6%a3%92%e7%90%83%e5%a4%a7%e8%81%94%e7%9b%9f" target="_blank" title="查看关于 美国职业棒球大联盟 的文章">美国职业棒球大联盟</a></span>（<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=mlb" target="_blank" title="查看关于 MLB 的文章">MLB</a></span>）今日宣布，他们已经完成在两个<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%a3%92%e7%90%83%e5%9c%ba" target="_blank" title="查看关于 棒球场 的文章">棒球场</a></span>中部署<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=ibeacon%e6%84%9f%e5%ba%94%e5%99%a8" target="_blank" title="查看关于 iBeacon感应器 的文章">iBeacon感应器</a></span>，这两个棒球场分别位于<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%b4%9b%e6%9d%89%e7%9f%b6" target="_blank" title="查看关于 洛杉矶 的文章">洛杉矶</a></span>和<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%9c%a3%e5%9c%b0%e4%ba%9a%e5%93%a5" target="_blank" title="查看关于 圣地亚哥 的文章">圣地亚哥</a></span>。</p>
+
+
+<p>两周前MLB就已经宣布，他们准备到2014年开赛日前在他们的20多个球场部署iBeacon。如今，他们已经对<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%b4%9b%e6%9d%89%e7%9f%b6" target="_blank" title="查看关于 洛杉矶 的文章">洛杉矶</a>道奇的主场<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e9%81%93%e5%a5%87%e8%bf%90%e5%8a%a8%e5%9c%ba" target="_blank" title="查看关于 道奇运动场 的文章">道奇运动场</a></span>以及圣地 亚哥的<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=petcopark" target="_blank" title="查看关于 PetcoPark 的文章">PetcoPark</a></span>完成部署了65个<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=ibeacon%e6%84%9f%e5%ba%94%e5%99%a8" target="_blank" title="查看关于 iBeacon感应器 的文章">iBeacon感应器</a>。接下来将在三月底开赛日前对MLB其他20多个运动场部署<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=ibeacon%e6%8a%80%e6%9c%af" target="_blank" title="查看关于 iBeacon技术 的文章">iBeacon技术</a>。</p>
+
+
+<p>iBeacon感应器能跟用户的手机连接，通过<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%bd%8e%e5%8a%9f%e8%80%97%e7%9a%84%e8%93%9d%e7%89%99%e6%8a%80%e6%9c%af" target="_blank" title="查看关于 低功耗的蓝牙技术 的文章">低功耗的蓝牙技术</a></span>进行连接。当用户接近某个感应器时，用户手机上的应用将能识别到感应器，并在手机屏幕上显示关于赛事的内容。</p>
+
+
+<p>MLB暂时未透露专属应用会提供什么信息。</p>
+
+
+<p><span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e8%8b%b9%e6%9e%9c" target="_blank" title="查看关于 苹果 的文章">苹果</a></span>iBeacon技术在去年低调发布，并在短短半年内很快被<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%a4%a7%e5%9e%8b%e5%95%86%e5%9c%ba" target="_blank" title="查看关于 大型商场 的文章">大型商场</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%b1%95%e4%bc%9a" target="_blank" title="查看关于 展会 的文章">展会</a></span>和<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%bd%93%e8%82%b2%e8%b5%9b%e5%9c%ba" target="_blank" title="查看关于 体育赛场 的文章">体育赛场</a></span>所应用，包括<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%a2%85%e8%a5%bf%e7%99%be%e8%b4%a7" target="_blank" title="查看关于 梅西百货 的文章">梅西百货</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=ces%e5%b1%95%e4%bc%9a" target="_blank" title="查看关于 CES展会 的文章">CES展会</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e8%b6%85%e7%ba%a7%e7%a2%97%e6%af%94%e8%b5%9b" target="_blank" title="查看关于 超级碗比赛 的文章">超级碗比赛</a></span>和MLB。</p>
+
+
+<p>无独有偶，<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e9%9f%a9%e5%9b%bd" target="_blank" title="查看关于 韩国 的文章">韩国</a></span>棒球场也运用<span style="color: #00ccff;">ibeacon技术</span>做起了<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%ae%a4%e5%86%85%e5%af%bc%e8%88%aa" target="_blank" title="查看关于 室内导航 的文章">室内导航</a></span>。</p>
+
+
+<p>视频地址：http://mp.weixin.qq.com/s?__biz=MjM5OTE2NTMyNg==&amp;mid=204870369&amp;idx=1&amp;sn=e170783e5e3bd24610c3002836ff47ec&amp;from=timeline&amp;isappinstalled=0&amp;key=1936e2bc22c2ceb5e21940e4933f5503dd4b3f5f275a4adb6f87d2be452d4ddb7537d49a80f08842accb9421951f8993&amp;ascene=1&amp;uin=MjEyMjg1NzYxOQ%3D%3D&amp;devicetype=webwx&amp;version=70000001&amp;pass_ticket=%2FIugT2fqMtISeO6USFZp%2BtJKWab7EVp8r99rQ1b2aR1r66JN%2F8nQF0f%2BzutR7pYy</p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q20150504230052.png"><img alt="Q20150504230052" class="alignnone size-medium wp-image-2870" height="300" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/Q20150504230052-346x300.png" width="346"/></a> <a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/QQ20150504230111.png"><img alt="QQ20150504230111" class="alignnone size-medium wp-image-2871" height="300" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/QQ20150504230111-351x300.png" width="351"/></a> <a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/QQ20150504230132.png"><img alt="QQ20150504230132" class="alignnone size-medium wp-image-2872" height="300" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/05/QQ20150504230132-378x300.png" width="378"/></a></p>
+
+
+<p> </p>
+
+
+<p> </p>
+
+
+<p>来源：weiphone</p>
+
+
+<p>免责声明：我们对文中事实与观点保持中立，不对所包含内容的准确性、可靠性和完整性提供任何明示或暗示的保证。请读者仅供参考，并自行承担全部责任。如有版权问题请联系我们，我们将即时删除。</p>
+
+
+<p> </p>

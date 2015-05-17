@@ -1,0 +1,19 @@
+---
+layout: post
+title: "iBeacon零售使用场景 带中文字幕"
+date: 2015-05-17 11:50:08
+categories: indoorwise ibeacon
+---
+<div class="asb asb-post asb-post-01"></div>
+ 
+<h1>iBeacon<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e9%9b%b6%e5%94%ae" target="_blank" title="查看关于 零售 的文章">零售</a><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%bd%bf%e7%94%a8%e5%9c%ba%e6%99%af" target="_blank" title="查看关于 使用场景 的文章">使用场景</a></h1>
+
+
+<p><img alt="" class="aligncenter" height="417" src="http://www.elecfans.com/uploads/150114/1751355-150114102I4S9.jpg" title="点击查看源网页" width="499"/></p>
+
+
+<div class="rich_media_content" id="js_content">
+
+来源：乐搜搜
+免责声明：我们对文中事实与观点保持中立，不对所包含内容的准确性、可靠性和完整性提供任何明示或暗示的保证。请读者仅供参考，并自行承担全部责任。如有版权问题请联系我们，我们将即时删除。
+</div>

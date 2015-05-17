@@ -1,0 +1,47 @@
+---
+layout: post
+title: "在家也可逛商场，微信和大悦城、智慧图又搞出了新玩法"
+date: 2015-05-17 11:54:15
+categories: indoorwise ibeacon
+---
+<div class="asb asb-post asb-post-01"></div>
+ 
+<article>
+<p class="post-abstract"><span class="abstract-tit">摘要：</span> 在店铺里任何一个角落，打开<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%be%ae%e4%bf%a1%e6%91%87%e4%b8%80%e6%91%87" target="_blank" title="查看关于 微信摇一摇 的文章">微信摇一摇</a></span>，输入金额，即可支付；还可一边购物，一边游戏。即使是在家中，这也可以实现。</p>
+<div class="inner">
+<p><img alt="" class="aligncenter" id="edit_1005389" src="http://7xil86.com2.z0.glb.qiniucdn.com/uploads/images/2015/05/%E8%A5%BF%E5%8D%95%E5%A4%A7%E6%82%A6%E5%9F%8E.jpg"/></p>
+<p class="aligncenter" style="text-align: left;"> 5月13日，<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%99%ba%e6%85%a7beacon" target="_blank" title="查看关于 智慧Beacon 的文章">智慧Beacon</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e8%85%be%e8%ae%af" target="_blank" title="查看关于 腾讯 的文章">腾讯</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%a4%a7%e6%82%a6%e5%9f%8e" target="_blank" title="查看关于 大悦城 的文章">大悦城</a></span>三方联合发布了“<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%99%ba%e6%85%a7beacon%e9%a3%9e" target="_blank" title="查看关于 智慧Beacon飞 的文章">智慧Beacon飞</a></span>”的项目。由<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e8%85%be%e8%ae%af" target="_blank" title="查看关于 腾讯 的文章">腾讯</a><span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%be%ae%e4%bf%a1%e6%94%af%e4%bb%98" target="_blank" title="查看关于 微信支付 的文章">微信支付</a></span>、<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e8%85%be%e8%ae%af%e5%9c%b0%e5%9b%be" target="_blank" title="查看关于 腾讯地图 的文章">腾讯地图</a></span>与<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%ae%a4%e5%86%85%e5%ae%9a%e4%bd%8d%e6%8a%80%e6%9c%af" target="_blank" title="查看关于 室内定位技术 的文章">室内定位技术</a>服务提供商<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%99%ba%e6%85%a7%e5%9b%be" target="_blank" title="查看关于 智慧图 的文章">智慧图</a>联手合作，搭建互动营销及微信智慧运营平台。通过这一平台，在店铺里任何一个角落，打开微信摇一摇，输入金额，即可支付；还可一边购物，一边游戏。</p>
+<p>在本次发布会上，首次推出以“<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e9%a3%9e%e6%94%af%e4%bb%98%e9%a3%9e%e8%a1%97%e6%99%af%e9%a3%9e%e6%b8%b8%e6%88%8f" target="_blank" title="查看关于 飞支付+飞街景+飞游戏 的文章">飞支付+飞街景+飞游戏</a></span>”为核心的三大主力产品，并在<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e8%a5%bf%e5%8d%95%e5%a4%a7%e6%82%a6%e5%9f%8e" target="_blank" title="查看关于 西单大悦城 的文章">西单大悦城</a></span>现场进行了具体操作演示。</p>
+<p><strong>360°逛街</strong></p>
+<p>打 开微信==》添加”<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e8%a5%bf%e5%8d%95%e5%a4%a7%e6%82%a6%e5%9f%8e" target="_blank" title="查看关于 西单大悦城 的文章">西单大悦城</a>“并打开此微信号，点击“<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%88%91%e8%a6%81" target="_blank" title="查看关于 我要 的文章">我要</a></span>”中的<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=360%e9%80%9b%e8%a1%97" target="_blank" title="查看关于 360逛街 的文章">360逛街</a></span>，即使是在家中，你可以漫步<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e8%a5%bf%e5%8d%95%e5%a4%a7%e6%82%a6%e5%9f%8e" target="_blank" title="查看关于 西单大悦城 的文章">西单大悦城</a>的所有店铺。各类时尚品牌，琳琅满目的 商品，整个商场尽收眼底，一手掌控。线上逛街时，遇到感兴趣的商品，你可以随时随地点击查看店铺和商品的历史、品牌文化和价格等。你还有机会收集<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%a4%a7%e6%82%a6%e5%9f%8e" target="_blank" title="查看关于 大悦城 的文章">大悦城</a>街 景中发现的<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%bc%98%e6%83%a0%e5%88%b8" target="_blank" title="查看关于 优惠券 的文章">优惠券</a>，进店通过<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%be%ae%e4%bf%a1%e6%94%af%e4%bb%98" target="_blank" title="查看关于 微信支付 的文章">微信支付</a>消费<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%bc%98%e6%83%a0%e5%88%b8" target="_blank" title="查看关于 优惠券 的文章">优惠券</a></span>，享受一站式服务。</p>
+<p>在360°逛街中，如何才能在大商城中快速找到自己最为中意的品牌？这时，大悦城的品牌导航就起作用了！只需要在服务号中一键定位，就可查看清晰的商城平面图，选择自己与某个店铺的最短路径。</p>
+<p>这 种“<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e9%a3%9e%e8%a1%97%e6%99%af" target="_blank" title="查看关于 飞街景 的文章">飞街景</a></span>”功能，是<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e8%85%be%e8%ae%af" target="_blank" title="查看关于 腾讯 的文章">腾讯</a>街景地图与西单大悦城在垂直领域的一次探索性合作，它通过连接线上街景地图服务与中高端垂直商场领域，目的是促使购物行为在虚拟 与现实之间实现自由转换，开启虚拟逛街与线下购物相结合的新模式，也是腾讯街景地图与线下购物相结合的一次行业变革性尝试。基于<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%99%ba%e6%85%a7%e5%9b%be" target="_blank" title="查看关于 智慧图 的文章">智慧图</a>“Beacon”技 术下的大悦城“360逛商场”的全新概念，在商场行业还属首家。</p>
+<p class="aligncenter"><img alt="" class="aligncenter" height="694" src="http://7xil86.com2.z0.glb.qiniucdn.com/uploads/images/2015/05/101a80b7e31ec581b44d14b274df6695_1431567588.jpeg" width="297"/></p>
+<p><strong><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e9%a3%9e%e6%94%af%e4%bb%98" target="_blank" title="查看关于 飞支付 的文章">飞支付</a> 让付款更加便利</strong></p>
+<p>现在的微信支付主打方案有两个，一个是用户扫码支付，一个是用户刷卡支付，很多第三方也做了一些创新，像摇一摇支付或其他的支付能力，包括<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%a3%b0%e6%b3%a2%e6%94%af%e4%bb%98" target="_blank" title="查看关于 声波支付 的文章">声波支付</a></span>，<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%8c%87%e7%ba%b9%e6%94%af%e4%bb%98" target="_blank" title="查看关于 指纹支付 的文章">指纹支付</a></span>等等。</p>
+<p>在支付的特点上，包括支付时间、交易安全、收单费率，传统的刷卡都有很大的优势。</p>
+<p>购物中心使用微信支付的好处是什么？用户通过微信支付交易，用户会沉淀在公众号里，他（她）就会成为你的粉丝，这就有利于以后对他进行后续的营销。第二，利用微信的客户消息和推送能力做二次的营销，第三可以关联微信的代金券，可以做一些优惠活动。</p>
+<p><span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%99%ba%e6%85%a7%e5%9b%be" target="_blank" title="查看关于 智慧图 的文章">智慧图</a></span>就是<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e6%91%87%e5%91%a8%e8%be%b9" target="_blank" title="查看关于 摇周边 的文章">摇周边</a></span>的能力，包括摇<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%bc%98%e6%83%a0%e5%88%b8" target="_blank" title="查看关于 优惠券 的文章">优惠券</a>、优惠活动、摇支付、摇调查。其中，由智慧Beacon+微信支付组成的摇一摇“<span style="color: #00ccff;">飞支付</span>”功能，是通过摇一摇和微信支付的合作，用户通过摇一摇即可以进入互动营销平台，实现快速定位支付。</p>
+<p>这种基于微信支付的场景化应用，结合了最新的iBeacon技术，在为购物中心带来全新支付方式、减少用户排队的同时，更能精准地为用户提供后续增值服务，增强互动，有效提升购物体验。</p>
+<p><strong>飞游戏  将O2O体验不断深入</strong></p>
+<p>由智慧Beacon结合知名互动游戏所打造的“飞游戏”功能，也是基于最新的HTML5技术，将购物和娱乐相结合，深度挖掘了线下购物的趣味性，提高了顾客在商场的驻留时长以及购物转化率，通过游戏营销丰富及加深了店铺与消费者间互动，更是开创了一种新型的购物体验。</p>
+<p>在 西单大悦城进行的摇一摇的实景游戏——<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%90%83%e8%b1%86%e8%b1%86" target="_blank" title="查看关于 吃豆豆 的文章">吃豆豆</a></span>和<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%af%bb%e5%ae%9d%e6%b4%bb%e5%8a%a8" target="_blank" title="查看关于 寻宝活动 的文章">寻宝活动</a></span>中，<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%90%83%e8%b1%86%e8%b1%86" target="_blank" title="查看关于 吃豆豆 的文章">吃豆豆</a>活动当天有303个新增注册用户。在今年2月14日情人节期间，消费者每走一层就送他们 一朵玫瑰花。根据数据监测显示，通过这个活动，消费者会比以往多逛三到四层楼，停留时间增加了30到40分钟。有13%的人逛完了十层楼。而通过摇一摇吸 粉数量是以往3倍的3，转化率达到了30%左右。</p>
+<p>据《<span style="color: #00ccff;"><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%95%86%e4%b8%9a%e4%bb%b7%e5%80%bc" target="_blank" title="查看关于 商业价值 的文章">商业价值</a></span>》记者了解，对于西单大悦城来说，“微信支付”功能开通只是一个开始，未来西单大悦城还将推出更多有关消费体验的升级计划，力求为消费者带来更多更好的服务。</p>
+<p>此次智慧图携手腾讯再次将全新的“智慧baecon飞”系列产品落地西单大悦城，可以说是三方合作的又一次突破性尝试。而对于西单大悦城，这也将是一次<span style="color: #00ccff;">O2O</span>体验的全新升级。（本文首发钛媒体）</p>
+</div>
+</article>
+
+
+<div class="sm">本文系作者 <a href="http://www.tmtpost.com/user/267575" target="_blank" title="潇棋">潇棋</a> 授权钛媒体发表，并经钛媒体编辑，转载请注明出处和<a class="link" href="http://www.tmtpost.com/1005326.html" title="在家也可逛商场，微信和大悦城、智慧图又搞出了新玩法">本文链接</a></div>
+
+
+<div class="sm">http://www.tmtpost.com/1005326.html?from=singlemessage&amp;isappinstalled=0</div>
+
+
+<div class="sm"></div>
+
+
+<div class="sm">免责声明：我们对文中事实与观点保持中立，不对所包含内容的准确性、可靠性和完整性提供任何明示或暗示的保证。请读者仅供参考，并自行承担全部责任。如有版权问题请联系我们，我们将即时删除。</div>
+
+
+<div class="post-tags"></div>
