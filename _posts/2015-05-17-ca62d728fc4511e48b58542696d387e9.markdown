@@ -1,0 +1,183 @@
+---
+layout: post
+title: "实例：上海随云iBeacon北京首秀—iBrush智能牙刷新品发布会(含详尽iBeacon市场数据报告)"
+date: 2015-05-17 11:35:40
+categories: indoorwise ibeacon
+---
+<div class="asb asb-post asb-post-01"></div>
+ 
+<p>愚人节首发，非愚人。<br/>
+上周，<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%b8%8a%e6%b5%b7%e9%9a%8f%e4%ba%91" target="_blank" title="查看关于 上海随云 的文章">上海随云</a>联合沪上某知名公司在<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%8c%97%e4%ba%ac" target="_blank" title="查看关于 北京 的文章">北京</a>华贸中心做了一场线下新品发布会。该活动得到<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%b8%9d%e9%83%bd" target="_blank" title="查看关于 帝都 的文章">帝都</a>人民的热情支持，虽然活动前3天都不是周末，但帝都人民线上线下互动情绪相当hi。本次活动由<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%b8%8a%e6%b5%b7%e9%9a%8f%e4%ba%91" target="_blank" title="查看关于 上海随云 的文章">上海随云</a>提供全程技术支撑。</p>
+
+
+<p>本次提供的产品由某日用品牌巨头全球首发：<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=ibrush" target="_blank" title="查看关于 iBrush 的文章">iBrush</a>蓝牙智能电动牙刷。该产品科技范十足，属于时下当红智能硬件范畴。哥也想要一个送妹子，可是价格摆在那里，1799软妹币。想想这得吃多少顿兰州啊，有么有。。。不叽歪，先上图：</p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/图片1.jpg"><br/>
+</a> <a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/1.jpg"><img alt="1" class="alignnone size-large wp-image-2013" height="1024" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/1-413x1024.jpg" width="413"/></a></p>
+
+
+<p> </p>
+
+
+<p>是不是瞬间觉得高大上了，哇，这么NB的产品不会蓝翔生产的吧？那些去小日本抢购马桶的二货，先把刷mouth的装备升级一下。哥悄悄的告诉你们，京东27日已经开卖。</p>
+
+
+<p> </p>
+
+
+<p>本次活动展厅是100多平米，展厅采用全玻璃门设计，提升设计质感的同时，也方便帝都匆匆而过的顾客。</p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/11-1.png"><img alt="11-1" class="alignnone size-full wp-image-2031" height="532" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/11-1.png" width="803"/></a></p>
+
+
+<p>本次活动结合了微信连WIFI以及<a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e5%be%ae%e4%bf%a1%e6%91%87%e4%b8%80%e6%91%87" target="_blank" title="查看关于 微信摇一摇 的文章">微信摇一摇</a>周边两大吸粉利器，通过摇一摇周边把免费WIFI，公众号以及分享互动有机结合起来。现场采用2个双频cisco商业路由器，可保障50个用户同时上网。iBeacon设备的信号也能覆盖全场无死角。在展厅外30米就能扫描到部署iBeacon设备。</p>
+
+
+<p>由于展厅采用玻璃门设计，因而展厅外面的用户对展厅里面的布置也一目了然。</p>
+
+
+<p>现场用户手机摇出H5页面，可选择关注公众号，关注完成后即可免费上网，参与好友分享&amp;朋友圈分享，领取优惠券，抽奖以及现场领取奖品等互动。根据现场支持的同学的反馈，帝都人民还是非常热情的。</p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/11-2.png"><img alt="11-2" class="alignnone size-full wp-image-2032" height="481" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/11-2.png" width="843"/></a></p>
+
+
+<p>看看下面这位大哥，使劲摇出来以后笑的有多开心。。。</p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/2-1.png"><br/>
+</a><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/11-3.png"><img alt="11-3" class="alignnone size-full wp-image-2033" height="470" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/11-3.png" width="825"/></a></p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/11-4.png"><img alt="11-4" class="alignnone size-full wp-image-2034" height="472" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/11-4.png" width="830"/></a></p>
+
+
+<p> </p>
+
+
+<p>下图是摇一摇周边出来的界面</p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/3.jpg"><img alt="3" class="alignnone size-large wp-image-2018" height="1024" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/3-577x1024.jpg" width="577"/></a></p>
+
+
+<p>下图是摇一摇进入H5首页</p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/4.jpg"><img alt="4" class="alignnone size-large wp-image-2019" height="1024" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/4-577x1024.jpg" width="577"/></a></p>
+
+
+<p>下图是好友分享页面</p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/5.jpg"><img alt="5" class="alignnone size-large wp-image-2020" height="1024" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/5-577x1024.jpg" width="577"/></a></p>
+
+
+<p>原来计划使用iBeacon来完全取代二维码，但即便是在帝都，仍然有一些用户的手机不支持，二维码终于还是上场了，丑陋的二维码！二维码的使用大概占比18%。</p>
+
+
+<p> </p>
+
+
+<p>一切没有数据支撑的营销都是耍流氓。说了老半天，该用数据说话了，诸位请继续：</p>
+
+
+<p> </p>
+
+
+<p>一 访问用户性别构成分析：</p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/6.png"><img alt="6" class="alignnone size-full wp-image-2021" height="300" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/6.png" width="550"/></a></p>
+
+
+<p>分析：男女比例差别不大，是不是说明男生逛街的也不少，或者说遇着喜欢的东西，也会停下脚步？</p>
+
+
+<p> </p>
+
+
+<p>二 访问用户区域构成分析：</p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/7.png"><img alt="7" class="alignnone size-large wp-image-2022" height="771" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/7-1024x771.png" width="1024"/></a></p>
+
+
+<p>分析：即使是在帝都办活动，但北京本地访问用户只占到56.78%，一半多一点。什么情况？看来北京的外地人真的是很多，而且出差去北京，短期逗留的加起来快一半，帝都不愧是全国精英聚集之风水宝地啊。</p>
+
+
+<p>三 手机机型版本构成：</p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/8.png"><img alt="8" class="alignnone size-large wp-image-2023" height="755" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/8-1024x755.png" width="1024"/></a></p>
+
+
+<p>分析：苹果访问用户占将近7成，安卓访问用户超过3成一点。这只能说明帝都人民有钱，苹果市场做的好。</p>
+
+
+<p> </p>
+
+
+<p>另外一点，苹果系统8.x超过8成，7.x超过9成，苹果在系统升级上做的很到位，反观android系统惨不忍睹，5.0占比很少，4.4也才5成多一点。</p>
+
+
+<p> </p>
+
+
+<p>四 独立访问&amp;分享构成：</p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/9.png"><img alt="9" class="alignnone size-large wp-image-2024" height="561" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/9-1024x561.png" width="1024"/></a></p>
+
+
+<p> </p>
+
+
+<p>分析：访问的用户有将近一半有做分享，这应该是现场美女帅哥的功劳，当然礼品的功劳也是大大滴。</p>
+
+
+<p> </p>
+
+
+<p>五 分享回访构成：</p>
+
+
+<p><a href="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/10.png"><img alt="10" class="alignnone size-large wp-image-2025" height="558" src="http://www.ibeaconworld.cn/wp-content/uploads/2015/04/10-1024x558.png" width="1024"/></a></p>
+
+
+<p>分析：实际统计中，分享回访的量占总访问量的比重将近2成，如此高的回访占比说明本次活动还是很受欢迎的，当然产品本身的高品质和文案还是起主要作用。</p>
+
+
+<p> </p>
+
+
+<p>总结：</p>
+
+
+<p>品牌方是国际大公司，第一次采用微信摇一摇来进行新品全球首发活动，也没有其他案例可供参考，因此希望用户流程越简单越好，我们提供的更多强大功能，比如实时用户反馈，支付，拍卖，足迹，弹幕以及近场互动游戏等，这次没有使用到。</p>
+
+
+<p><a class="tag_link" href="http://www.ibeaconworld.cn/?tag=%e4%b8%8a%e6%b5%b7%e9%9a%8f%e4%ba%91" target="_blank" title="查看关于 上海随云 的文章">上海随云</a>主要提供室内定位，近场通讯全套软硬件解决方案的创业公司。面向的行业有互动广告，购物中心，大型展会等，基于精准位置提供极致用户体验是我们不变的追求。希望大家多多支持。</p>
+
+
+<p>联系方式：</p>
+
+
+<p><a href="http://www.suicloud.com/">上海随云信息技术有限公司</a></p>
+
+
+<p>电话：021-61311259</p>
+
+
+<p>商务：business@suicloud.com</p>
+
+
+<p>投资：capital@suicloud.com</p>
+
+
+<hr/>
+
+
+<p>查看更多ibeacon实例，请点击》》》</p>
