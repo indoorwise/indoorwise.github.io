@@ -1,0 +1,12 @@
+---
+layout: post
+title: "iBeacon麦当劳方案案例"
+date: 2015-05-17 11:23:03
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/05/iBeacon麦当劳案例.jpg"><img alt="iBeacon麦当劳案例" class="alignnone size-medium wp-image-1337" height="194" src="http://www.ibeaconfans.com/wp-content/uploads/2015/05/iBeacon麦当劳案例-300x194.jpg" width="300"/></a><br/>
+这是为麦当劳提供整体iBeacon解决方案的公司描述的具体细节。<br/>
+<embed align="middle" allowfullscreen="true" allowscriptaccess="always" height="400" quality="high" src="http://player.youku.com/player.php/sid/XOTQ5NTYxMjQ4/v.swf" type="application/x-shockwave-flash" width="480"></embed></p>
+
+
+<p>转载自：iBeacon粉丝网 » iBeacon麦当劳方案案例</p>

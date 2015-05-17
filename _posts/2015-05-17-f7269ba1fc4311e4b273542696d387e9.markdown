@@ -1,0 +1,11 @@
+---
+layout: post
+title: "iBeacon还可以帮助咖啡馆这样运营"
+date: 2015-05-17 11:22:36
+categories: indoorwise ibeacon
+---
+<p><a href="http://www.ibeaconfans.com/wp-content/uploads/2015/05/ibeacon消费者咖啡馆.jpg"><img alt="ibeacon消费者咖啡馆" class="alignnone size-medium wp-image-1334" height="225" src="http://www.ibeaconfans.com/wp-content/uploads/2015/05/ibeacon消费者咖啡馆-300x225.jpg" width="300"/></a><br/>
+美国的一家创业公司专门针对咖啡馆推出了一款APP,通过安装在咖啡馆里的iBeacon基站提供订位，计时长和自动付款服务。很多咖啡馆会遇到来坐着不消费又蹭网的问题，这个APP建议咖啡馆干脆退出类似场地租用的服务，通过所待时长收取一定费用，消费者可以通过APP远程预定座位，收取一定数额定金，当走入咖啡馆时通过iBeacon自动感应签到提示并开始计时，离开时自动计算所待时长和从关联的信用卡扣除相应费用。这样咖啡馆和那些蹭网的消费者岂不是都共赢！</p>
+
+
+<p>转载自：iBeacon粉丝网 » iBeacon还可以帮助咖啡馆这样运营</p>
